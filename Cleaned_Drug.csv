@@ -1,0 +1,1754 @@
+,Condition,Drug,Indication,Type,Effective,EaseOfUse,Satisfaction
+0,Acute Bacterial Sinusitis,Levofloxacin,On Label,RX,2.52,3.01,1.84
+2,Acute Bacterial Sinusitis,Moxifloxacin,On Label,RX,2.78,3.0,2.08
+3,Acute Bacterial Sinusitis,Azithromycin,On Label,RX,3.21,4.01,2.57
+8,Acute Bacterial Sinusitis,Amoxicillin-Pot Clavulanate,On Label,RX,3.26,3.23,2.42
+11,Acute Bacterial Sinusitis,Levofloxacin,On Label,RX,2.44,2.96,1.68
+13,Acute Bacterial Sinusitis,Amoxicillin,On Label,RX,3.04,3.37,2.34
+17,Acute Bacterial Sinusitis,Clarithromycin,On Label,RX,3.0,3.4,2.18
+20,Acute Bacterial Sinusitis,Amoxicillin-Pot Clavulanate,On Label,RX,2.74,3.04,2.12
+24,Acute Bacterial Sinusitis,Erythromycin,On Label,RX,2.11,2.79,1.32
+26,Acute Bacterial Sinusitis,Amoxicillin-Pot Clavulanate,Off Label,RX,3.29,3.47,2.59
+27,Acute Bacterial Sinusitis,Clarithromycin,On Label,RX,3.29,3.71,2.86
+28,Acute Bacterial Sinusitis,Levofloxacin,On Label,RX,3.29,4.43,3.0
+29,Acute Bacterial Sinusitis,Azithromycin,On Label,RX,4.0,4.5,3.7
+30,Acute Bacterial Sinusitis,Erythromycin,On Label,RX,3.8,4.0,3.4
+31,Acute Bacterial Sinusitis,Ampicillin,On Label,RX,3.0,3.25,3.0
+32,Acute Bacterial Sinusitis,Moxifloxacin,On Label,RX,3.33,3.33,3.0
+33,Acute Bacterial Sinusitis,Erythromycin Stearate,On Label,RX,3.0,2.8,2.2
+34,Acute Bacterial Sinusitis,Erythromycin Ethylsuccinate,On Label,RX,3.25,2.75,3.0
+36,Acute Bacterial Sinusitis,Amoxicillin,On Label,RX,2.33,3.67,3.0
+39,Acute Bacterial Sinusitis,Moxifloxacin,On Label,RX,2.5,3.5,2.5
+40,Acute Bacterial Sinusitis,Moxifloxacin-Sod.Chloride(Iso),On Label,RX,2.33,2.33,2.0
+41,Acute Bacterial Sinusitis,Amoxicillin,On Label,RX,3.0,5.0,3.0
+44,Acute Bacterial Sinusitis,Erythromycin Stearate,On Label,RX,5.0,4.0,5.0
+45,Acute Bacterial Sinusitis,Erythromycin Ethylsuccinate,On Label,RX,1.0,1.0,1.0
+46,Acute Bacterial Sinusitis,Clarithromycin,On Label,RX,5.0,4.0,4.5
+47,Acute Bacterial Sinusitis,Erythromycin Ethylsuccinate,On Label,RX,4.0,4.0,4.0
+49,Acute Bacterial Sinusitis,Erythromycin,On Label,RX,5.0,2.0,4.0
+50,Acute Bacterial Sinusitis,Ampicillin Sodium,Off Label,RX,5.0,5.0,5.0
+51,Acute Bacterial Sinusitis,Amoxicillin,On Label,RX,5.0,1.0,1.0
+53,Acute Bacterial Sinusitis,Ampicillin,On Label,RX,3.0,2.0,1.0
+54,Acute Bacterial Sinusitis,Erythromycin Stearate,On Label,RX,4.0,4.0,4.0
+55,Acute Bacterial Sinusitis,Ampicillin Sodium,Off Label,RX,1.0,1.0,1.0
+56,Acute Bacterial Sinusitis,Amoxicillin,On Label,RX,5.0,5.0,5.0
+60,Acute Bacterial Sinusitis,Amoxicillin,On Label,RX,4.0,4.0,5.0
+61,Acute Bacterial Sinusitis,Erythromycin Ethylsuccinate,On Label,RX,5.0,4.0,5.0
+62,Acute Bacterial Sinusitis,Erythromycin Ethylsuccinate,On Label,RX,1.0,1.0,1.0
+63,Acute Bacterial Sinusitis,Erythromycin Ethylsuccinate,On Label,RX,3.0,3.0,3.0
+65,adenocarcinoma of pancreas,Capecitabine,Off Label,RX,3.75,3.78,3.62
+66,adenocarcinoma of pancreas,Cisplatin,Off Label,RX,4.27,3.45,3.45
+67,adenocarcinoma of pancreas,Oxaliplatin,Off Label,RX,4.0,2.8,2.8
+68,adenocarcinoma of pancreas,Paclitaxel-Protein Bound,On Label,RX,4.18,4.0,3.77
+69,adenocarcinoma of pancreas,Gemcitabine,On Label,RX,3.44,3.11,2.67
+70,adenocarcinoma of pancreas,Gemcitabine,On Label,RX,3.25,4.0,3.0
+71,adenocarcinoma of pancreas,Capecitabine,Off Label,RX,3.75,4.5,3.75
+72,adenocarcinoma of pancreas,Fluorouracil,On Label,RX,3.0,1.0,3.0
+73,adenocarcinoma of pancreas,Mitomycin,On Label,RX,2.5,2.0,2.0
+74,adenocarcinoma of pancreas,Doxorubicin,Off Label,RX,2.0,2.0,3.0
+76,adenocarcinoma of pancreas,Oxaliplatin,Off Label,RX,5.0,5.0,3.0
+77,adenocarcinoma of pancreas,Doxorubicin,Off Label,RX,1.0,3.0,1.0
+78,adenocarcinoma of pancreas,Cisplatin,Off Label,RX,3.0,3.0,3.0
+79,adenocarcinoma of pancreas,Paclitaxel-Protein Bound,On Label,RX,3.0,2.0,3.0
+80,Atopic Dermatitis,Prednisone,On Label,RX,3.54,3.64,2.74
+83,Atopic Dermatitis,Methylprednisolone,On Label,RX,3.3,3.92,2.82
+84,Atopic Dermatitis,Cetirizine,Off Label,OTC,3.59,4.18,2.81
+85,Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,3.03,3.17,2.68
+86,Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,4.0,4.44,3.85
+87,Atopic Dermatitis,Clobetasol,On Label,RX,3.94,4.34,3.82
+91,Atopic Dermatitis,Methylprednisolone,On Label,RX,3.39,3.97,3.11
+92,Atopic Dermatitis,Methylprednisolone,On Label,RX,3.35,3.31,2.92
+93,Atopic Dermatitis,Dexamethasone,On Label,RX,3.38,3.27,2.47
+95,Atopic Dermatitis,Methylprednisolone Acetate,On Label,RX,3.52,3.0,3.14
+96,Atopic Dermatitis,Cetirizine,Off Label,RX/OTC,3.27,4.14,3.05
+97,Atopic Dermatitis,Pimecrolimus,On Label,RX,3.26,4.14,3.17
+98,Atopic Dermatitis,Fluocinonide,On Label,RX,4.7,4.7,4.7
+99,Atopic Dermatitis,Dexamethasone,On Label,RX,3.67,3.2,1.93
+100,Atopic Dermatitis,Desonide,On Label,RX,2.9,4.1,2.9
+103,Atopic Dermatitis,Betamethasone Dipropionate,On Label,RX,3.91,4.55,4.0
+105,Atopic Dermatitis,Dexamethasone,On Label,RX,3.38,3.12,2.27
+106,Atopic Dermatitis,Tacrolimus,On Label,RX,3.62,4.1,3.62
+107,Atopic Dermatitis,Clobetasol,On Label,RX,3.89,4.04,3.43
+109,Atopic Dermatitis,Mometasone,On Label,RX,4.88,4.88,4.88
+110,Atopic Dermatitis,Hydrocortisone,On Label,RX,4.36,4.23,3.59
+111,Atopic Dermatitis,Methylprednisolone,On Label,RX,3.5,3.9,3.3
+112,Atopic Dermatitis,Desoximetasone,On Label,RX,3.44,4.67,3.11
+114,Atopic Dermatitis,Hydrocortisone,On Label,RX/OTC,4.2,4.2,4.0
+115,Atopic Dermatitis,Hydrocortisone,On Label,RX,4.31,4.13,3.69
+116,Atopic Dermatitis,Clobetasol-Emollient,On Label,RX,3.22,3.33,3.11
+117,Atopic Dermatitis,Hydrocortisone Butyr-Emollient,On Label,RX,4.57,4.86,4.43
+118,Atopic Dermatitis,Halobetasol Propionate,On Label,RX,4.31,4.38,4.15
+120,Atopic Dermatitis,Mometasone,On Label,RX,4.67,4.5,4.67
+121,Atopic Dermatitis,Prednisone,On Label,RX,1.0,2.8,1.0
+122,Atopic Dermatitis,Fluocinolone,On Label,RX,4.45,4.55,4.36
+123,Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,3.75,3.5,3.75
+124,Atopic Dermatitis,Methylprednisolone,On Label,RX,3.67,4.33,3.17
+125,Atopic Dermatitis,Dexamethasone,On Label,RX,2.4,2.8,1.8
+126,Atopic Dermatitis,Vit E-Grape-Hyaluronate Sodium,On Label,RX,3.69,4.54,3.77
+127,Atopic Dermatitis,Fluocinonide,On Label,RX,3.8,4.2,3.6
+128,Atopic Dermatitis,Cortisone,On Label,RX,4.6,4.2,3.2
+129,Atopic Dermatitis,Betamethasone Valerate,On Label,RX,3.8,4.6,3.8
+131,Atopic Dermatitis,Methylprednisolone Acetate,On Label,RX,3.33,3.67,3.33
+132,Atopic Dermatitis,Prednisone,On Label,RX,4.33,3.33,2.33
+133,Atopic Dermatitis,Clobetasol,On Label,RX,4.75,4.38,4.13
+134,Atopic Dermatitis,"Betamethasone Acet,Sod Phos",On Label,RX,3.0,3.67,3.0
+135,Atopic Dermatitis,Fluocinolone And Shower Cap,On Label,RX,4.0,3.7,3.6
+136,Atopic Dermatitis,Desoximetasone,On Label,RX,3.67,4.67,3.67
+138,Atopic Dermatitis,Halobetasol Propionate,On Label,RX,5.0,4.67,5.0
+139,Atopic Dermatitis,Dexamethasone Sodium Phosphate,On Label,RX,3.67,3.0,3.67
+140,Atopic Dermatitis,Prednisolone Sodium Phosphate,On Label,RX,3.88,4.75,3.5
+141,Atopic Dermatitis,Hydrocortisone-Iodoquinl-Aloe2,On Label,RX,3.0,3.0,3.0
+142,Atopic Dermatitis,Fluocinonide,On Label,RX,4.25,4.0,4.0
+143,Atopic Dermatitis,"Betamethasone Acet,Sod Phos",On Label,RX,5.0,5.0,5.0
+144,Atopic Dermatitis,Fluocinolone,On Label,RX,4.14,4.29,4.0
+145,Atopic Dermatitis,Prednisolone,On Label,RX,3.33,3.0,3.0
+146,Atopic Dermatitis,Fluocinolone,On Label,RX,3.75,4.25,3.75
+149,Atopic Dermatitis,Cetirizine,Off Label,OTC,4.0,4.5,3.75
+150,Atopic Dermatitis,"Betamethasone, Augmented, Betamethasone Dipropionate",On Label,RX,3.75,4.25,3.5
+152,Atopic Dermatitis,Prednicarbate,On Label,RX,5.0,5.0,5.0
+154,Atopic Dermatitis,Hydrocortisone Valerate,On Label,RX,3.0,3.0,3.0
+155,Atopic Dermatitis,Cetirizine,Off Label,OTC,3.0,4.33,1.67
+156,Atopic Dermatitis,Fluticasone Propionate,On Label,RX,5.0,5.0,5.0
+157,Atopic Dermatitis,Flurandrenolide,On Label,RX,3.0,5.0,2.33
+159,Atopic Dermatitis,"Hydrocortisone-Pramoxine, Hydrocortisone",On Label,RX,3.75,4.75,3.75
+162,Atopic Dermatitis,Fluocinolone,On Label,RX,3.0,3.5,3.0
+163,Atopic Dermatitis,"Betamethasone, Augmented",On Label,RX,3.67,4.67,3.67
+164,Atopic Dermatitis,Diflorasone,On Label,RX,5.0,5.0,5.0
+165,Atopic Dermatitis,Prednisolone Sodium Phosphate,On Label,RX,4.33,5.0,4.33
+166,Atopic Dermatitis,Clobetasol,On Label,RX,3.25,5.0,3.25
+167,Atopic Dermatitis,Desonide,On Label,RX,4.67,4.67,4.67
+168,Atopic Dermatitis,Hydrocortisone Butyrate,On Label,RX,2.0,2.67,2.0
+169,Atopic Dermatitis,Fluticasone Propionate,On Label,RX,5.0,5.0,5.0
+170,Atopic Dermatitis,Prednisone,On Label,RX,1.0,3.0,1.0
+171,Atopic Dermatitis,Dexamethasone,On Label,RX,5.0,5.0,5.0
+172,Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,5.0,5.0,5.0
+173,Atopic Dermatitis,Clobetasol-Emollient,On Label,RX,3.0,3.67,2.67
+175,Atopic Dermatitis,Hydrocortisone,On Label,OTC,1.8,3.2,3.0
+176,Atopic Dermatitis,Fluocinonide-Emollient,On Label,RX,3.0,3.5,3.0
+177,Atopic Dermatitis,Betamethasone Valerate,On Label,RX,3.5,4.5,3.5
+178,Atopic Dermatitis,Hydrocortisone,On Label,OTC,1.0,5.0,1.0
+179,Atopic Dermatitis,Doxepin,On Label,RX,3.67,3.67,3.33
+180,Atopic Dermatitis,Flurandrenolide,On Label,RX,3.0,3.0,3.0
+181,Atopic Dermatitis,Betamethasone Dipropionate,On Label,RX,5.0,5.0,5.0
+182,Atopic Dermatitis,Diflorasone-Emollient,On Label,RX,4.0,4.5,4.5
+183,Atopic Dermatitis,Desoximetasone,On Label,RX,3.0,3.0,3.0
+184,Atopic Dermatitis,Doxepin,On Label,RX,5.0,4.5,4.5
+185,Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,4.0,3.5,4.0
+186,Atopic Dermatitis,Cetirizine,Off Label,OTC,4.0,5.0,5.0
+187,Atopic Dermatitis,"Hydrocortisone, Pramoxine-Benzyl Alcohol",On Label,OTC,5.0,5.0,5.0
+188,Atopic Dermatitis,"Desonide-Emollient Combo No 28, Desonide",On Label,RX,1.5,3.0,1.0
+190,Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,4.0,4.0,2.0
+191,Atopic Dermatitis,Hydrocortisone Acetate,On Label,OTC,5.0,5.0,5.0
+192,Atopic Dermatitis,Fluocinolone,On Label,RX,4.0,3.5,3.5
+193,Atopic Dermatitis,Dexamethasone,On Label,RX,5.0,5.0,5.0
+194,Atopic Dermatitis,Dexamethasone,On Label,RX,3.0,3.0,3.0
+195,Atopic Dermatitis,Alclometasone,On Label,RX,4.5,5.0,4.5
+196,Atopic Dermatitis,Alclometasone,On Label,RX,1.0,5.0,1.0
+197,Atopic Dermatitis,Prednisolone Sodium Phosphate,On Label,RX,4.0,3.67,3.67
+198,Atopic Dermatitis,Dexamethasone Sodium Phosphate,On Label,RX,3.5,4.5,3.0
+199,Atopic Dermatitis,Flurandrenolide,On Label,RX,3.0,5.0,4.0
+200,Atopic Dermatitis,Amcinonide,On Label,RX,5.0,5.0,5.0
+201,Atopic Dermatitis,Hydrocortisone Butyrate,On Label,RX,5.0,5.0,5.0
+202,Atopic Dermatitis,Fluocinonide,On Label,RX,5.0,5.0,5.0
+203,Atopic Dermatitis,"Vit E-Glycerin-Dimethicone, Glycerin-Dimethicone-Petro, Wh",On Label,RX,2.0,3.0,2.5
+204,Atopic Dermatitis,Tacrolimus,On Label,RX,5.0,4.0,5.0
+205,Atopic Dermatitis,Betamethasone Valerate,On Label,RX,5.0,5.0,5.0
+206,Atopic Dermatitis,Hydrocortisone,On Label,OTC,5.0,5.0,5.0
+207,Atopic Dermatitis,"Prednisolone, Prednisolone Sodium Phosphate",On Label,RX,1.0,3.0,2.0
+209,Atopic Dermatitis,Hydrocortisone Valerate,On Label,RX,1.0,1.0,1.0
+210,Atopic Dermatitis,Desonide,On Label,RX,5.0,5.0,5.0
+211,Atopic Dermatitis,Hydrocortisone Sod Succinate,On Label,RX,5.0,5.0,5.0
+212,Atopic Dermatitis,Diflorasone,On Label,RX,5.0,5.0,5.0
+213,Atopic Dermatitis,Amcinonide,On Label,RX,5.0,5.0,5.0
+214,Atopic Dermatitis,Diflorasone-Emollient,On Label,RX,5.0,5.0,5.0
+215,Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,4.0,1.0,4.0
+216,Atopic Dermatitis,Hydrocortisone,On Label,OTC,1.0,5.0,1.0
+217,Atopic Dermatitis,Hydrocortisone Probutate,On Label,RX,1.0,1.0,1.0
+218,Atopic Dermatitis,Hydrocortisone,On Label,OTC,5.0,5.0,5.0
+219,Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,3.5,3.5,3.5
+220,Atopic Dermatitis,Triamcinolone-Emollient Comb86,On Label,RX,1.0,1.0,1.0
+221,Atopic Dermatitis,Hydrocortisone Acetate,On Label,OTC,5.0,5.0,5.0
+222,Atopic Dermatitis,Fluocinonide-Emollient,On Label,RX,4.0,4.0,5.0
+223,Atopic Dermatitis,Dexamethasone Sodium Phos (PF),On Label,RX,5.0,4.0,5.0
+226,Atopic Dermatitis,Methylprednisolone Acetate,On Label,RX,1.0,1.0,1.0
+227,Atopic Dermatitis,Cetirizine,Off Label,OTC,5.0,5.0,5.0
+228,Atopic Dermatitis,Flurandrenolide,On Label,RX,5.0,5.0,5.0
+229,Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,5.0,5.0,5.0
+230,Atopic Dermatitis,Dexamethasone,On Label,RX,4.0,5.0,5.0
+232,Atopic Dermatitis,Methylprednisolone Acetate,On Label,RX,3.0,2.0,1.0
+235,Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,1.0,1.0,1.0
+236,Atopic Dermatitis,Hydrocortisone,On Label,OTC,5.0,5.0,5.0
+237,Atopic Dermatitis,Methylprednisolone,On Label,RX,2.0,4.0,3.0
+238,Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,1.0,1.0,1.0
+239,Atopic Dermatitis,Hydrocortisone-Iodoquinol,On Label,RX,4.0,4.0,4.0
+240,Atopic Dermatitis,Clobetasol-Emollient,On Label,RX,5.0,5.0,5.0
+241,Atopic Dermatitis,Hydrocortisone Sod Succinate,On Label,RX,3.0,3.0,4.0
+242,Atopic Dermatitis,Hydrocortisone,On Label,OTC,1.0,5.0,1.0
+243,Atopic Dermatitis,Dexamethasone,On Label,RX,1.0,1.0,1.0
+244,Atopic Dermatitis,Dexamethasone,On Label,RX,4.0,5.0,4.0
+245,Atopic Dermatitis,"Salicylic Acid, Hydrocortisone",On Label,OTC,1.0,1.0,1.0
+247,Atopic Dermatitis,Fluocinolone And Shower Cap,On Label,RX,5.0,3.0,5.0
+248,Atopic Dermatitis,Methylprednisolone Acetate,On Label,RX,4.0,2.0,4.0
+249,Atopic Dermatitis,Hydrocortisone Sod Succ (PF),On Label,RX,4.0,5.0,4.0
+250,Atopic Dermatitis,"Betamethasone, Augmented",On Label,RX,4.0,3.0,3.0
+252,Atopic Dermatitis,Hydrocortisone,On Label,OTC,2.0,2.0,2.0
+253,Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,4.0,4.0,3.0
+254,Atopic Dermatitis,Hydrocortisone,On Label,OTC,4.0,4.0,4.0
+256,Atopic Dermatitis,Hydrocortisone Acetate,On Label,OTC,3.0,3.0,1.0
+257,Atopic Dermatitis,Methylprednisolone Acetate,On Label,RX,2.0,1.0,1.0
+258,Atopic Dermatitis,Hydrocortisone Acetate,On Label,RX/OTC,2.0,4.0,2.0
+260,Atopic Dermatitis,Hydrocortisone Acetate,On Label,OTC,4.0,5.0,4.0
+261,Atopic Dermatitis,Methylprednisolone Acetate,On Label,RX,4.0,2.0,2.0
+262,Atopic Dermatitis,Desonide,On Label,RX,5.0,5.0,5.0
+263,Atopic Dermatitis,Betamethasone Valerate,On Label,RX,5.0,5.0,5.0
+264,Atopic Dermatitis,Dexamethasone Sodium Phosphate,On Label,RX,5.0,5.0,4.0
+265,Atopic Dermatitis,Methylprednisolone Acetate,On Label,RX,5.0,5.0,5.0
+266,Atopic Dermatitis,Prednisone,On Label,RX,5.0,5.0,5.0
+267,Atopic Dermatitis,Methylprednisolone Acetate,On Label,RX,1.0,1.0,1.0
+268,Atopic Dermatitis,Hydrocortisone,On Label,OTC,3.0,4.0,2.0
+269,Atopic Dermatitis,Flurandrenolide,On Label,RX,5.0,5.0,5.0
+270,Atopic Dermatitis,Hydrocortisone,On Label,RX,4.0,4.0,3.0
+271,Atopic Dermatitis,Hydrocortisone,On Label,RX/OTC,1.0,1.0,1.0
+272,Atopic Dermatitis,Methylprednisolone Acetate,On Label,RX,5.0,5.0,4.0
+273,Atopic Dermatitis,Prednisone,On Label,RX,4.0,5.0,4.0
+274,Atopic Dermatitis,Triamcinolone Acetonide,On Label,RX,5.0,5.0,5.0
+275,Atopic Dermatitis,Fluocinolone-Emol Cmb#65,On Label,RX,1.0,4.0,1.0
+276,Atopic Dermatitis,Fluocinolone-Emol Cmb#65,On Label,RX,1.0,3.0,1.0
+277,Atopic Dermatitis,Desonide-Emollient Combo No 28,On Label,RX,4.0,4.0,4.0
+278,Atopic Dermatitis,Flurandrenolide,On Label,RX,3.0,2.0,3.0
+282,Atopic Dermatitis,Fluocinolone-Skin Clnsr28,On Label,RX,5.0,5.0,5.0
+284,Atopic Dermatitis,Fluocinonide,On Label,RX,5.0,5.0,5.0
+285,Atopic Dermatitis,Vit E-Glycerin-Dimethicone,On Label,RX,4.0,5.0,5.0
+286,Atopic Dermatitis,Diflorasone,On Label,RX,4.0,5.0,5.0
+287,Atopic Dermatitis,Prednisolone,On Label,RX,3.0,2.0,2.0
+288,Atopic Dermatitis,Hydrocortisone-Oatmeal-Aloe-E,On Label,OTC,1.0,3.0,1.0
+289,back pain,Acetaminophen,On Label,OTC,3.07,3.85,3.15
+290,back pain,Capsaicin,On Label,OTC,2.53,2.63,2.5
+291,back pain,Capsaicin,On Label,OTC,2.74,3.71,2.66
+292,back pain,Acetaminophen,On Label,OTC,3.31,4.06,3.13
+296,back pain,"Capsaicin-Menthol, Capsaicin",On Label,OTC,2.47,3.47,2.16
+297,back pain,Capsaicin,On Label,OTC,3.13,3.38,3.13
+298,back pain,Trolamine Salicylate,On Label,OTC,2.89,4.0,2.89
+299,back pain,Trolamine Salicylate,On Label,OTC,4.0,4.8,4.0
+300,back pain,Capsaicin-Methyl Sal-Menthol,On Label,OTC,4.92,4.92,4.83
+301,back pain,Acetaminophen,On Label,OTC,3.73,4.36,3.55
+302,back pain,Acetaminophen,On Label,OTC,4.5,4.0,4.25
+303,back pain,Acetaminophen,On Label,OTC,3.0,4.25,2.5
+304,back pain,Acetaminophen,On Label,OTC,2.2,4.0,2.8
+305,back pain,Acetaminophen,On Label,OTC,3.5,4.0,3.75
+306,back pain,Capsaicin,On Label,OTC,2.33,3.0,2.0
+307,back pain,Trolamine Salicylate,On Label,OTC,4.0,5.0,3.75
+308,back pain,Capsaicin,On Label,OTC,2.0,2.0,2.0
+309,back pain,Acetaminophen,On Label,OTC,3.67,4.67,4.33
+310,back pain,Acetaminophen,On Label,OTC,4.5,4.5,4.5
+311,back pain,Capsaicin,On Label,OTC,4.33,4.33,4.67
+312,back pain,"ASA-Acetaminophen-Salicyl-Caff, Mg Salicylat-Acetaminophen-Caf",On Label,OTC,2.6,3.0,2.8
+313,back pain,Trolamine Salicylate,On Label,OTC,3.0,3.0,3.0
+314,back pain,Acetaminophen,On Label,OTC,5.0,5.0,5.0
+315,back pain,Acetaminophen,On Label,OTC,2.0,2.0,1.0
+316,back pain,Capsaicin,On Label,OTC,4.75,4.5,4.0
+317,back pain,Trolamine Salicylate,On Label,OTC,5.0,5.0,5.0
+318,back pain,Acetaminophen,On Label,OTC,1.5,2.5,1.5
+319,back pain,Acetaminophen,On Label,OTC,4.5,4.0,4.5
+320,back pain,Capsaicin,On Label,OTC,3.0,3.5,3.0
+321,back pain,Menthol,On Label,OTC,4.67,4.33,4.67
+322,back pain,Trolamine Salicylate,On Label,OTC,5.0,5.0,5.0
+323,back pain,Capsaicin,On Label,OTC,2.67,5.0,2.67
+324,back pain,Acetaminophen,On Label,OTC,5.0,5.0,3.0
+325,back pain,Acetaminophen,On Label,OTC,5.0,5.0,5.0
+326,back pain,Menthol,On Label,OTC,5.0,5.0,5.0
+327,back pain,"Menthol-Camphor-Antarth Cb#1, Methyl Salicylate-Menthol, Camphor-Menthol, Camphor-Methyl Salicyl-Menthol",On Label,OTC,5.0,5.0,5.0
+328,back pain,Acetaminophen,On Label,OTC,4.0,5.0,4.0
+331,back pain,Trolamine Salicylate,On Label,OTC,3.0,4.0,3.0
+332,back pain,Menthol,On Label,OTC,5.0,5.0,5.0
+333,back pain,Acetaminophen,On Label,OTC,4.0,4.0,4.0
+336,back pain,Capsaicin,On Label,OTC,3.0,5.0,3.0
+337,back pain,Trolamine Salicylate,On Label,OTC,4.0,5.0,5.0
+339,back pain,Acetaminophen,On Label,OTC,1.0,1.0,1.0
+340,back pain,"Cpm-PPA-DM-Acetaminophen, Acetaminophen",On Label,OTC,5.0,5.0,2.0
+341,back pain,Acetaminophen,On Label,OTC,3.0,4.0,1.0
+342,back pain,Capsaicin,On Label,OTC,5.0,5.0,5.0
+343,back pain,Acetaminophen,On Label,OTC,1.0,1.0,2.0
+345,back pain,Capsaicin-Methyl Sal-Menthol,On Label,OTC,5.0,5.0,5.0
+346,back pain,Trolamine Salicylate,On Label,OTC,5.0,5.0,5.0
+347,back pain,Capsaicin,On Label,OTC,2.5,4.5,2.5
+348,back pain,Acetaminophen,On Label,OTC,5.0,1.0,1.0
+349,back pain,"Trolamine Salicylate, Ala-Bos-Gin-Bas-Rose-Tur-Wil",On Label,OTC,5.0,3.0,3.0
+351,back pain,Capsaicin-Camphor-Menthol,On Label,OTC,1.0,1.0,1.0
+352,back pain,Acetaminophen,On Label,OTC,3.0,4.0,2.0
+353,back pain,Acetaminophen,On Label,OTC,1.5,3.0,1.5
+354,back pain,Menthol,On Label,OTC,3.0,4.5,3.0
+355,back pain,Acetaminophen,On Label,OTC,2.0,4.0,3.0
+356,back pain,Acetaminophen,On Label,OTC,5.0,5.0,5.0
+358,back pain,Menthol,On Label,OTC,1.0,5.0,1.0
+359,back pain,Capsaicin,On Label,OTC,3.0,4.0,4.0
+360,back pain,Aspirin-Acetaminophen-Caffeine,On Label,OTC,5.0,5.0,4.0
+362,back pain,Acetaminophen,On Label,OTC,4.0,2.0,4.0
+363,back pain,Acetaminophen,On Label,OTC,1.0,1.0,1.0
+364,back pain,Acetaminophen,On Label,OTC,3.0,3.0,5.0
+365,back pain,Menthol,On Label,OTC,5.0,5.0,5.0
+366,back pain,Menthol,On Label,OTC,1.0,1.0,1.0
+367,back pain,Acetaminophen,On Label,OTC,5.0,5.0,5.0
+368,back pain,Capsaicin,On Label,OTC,5.0,5.0,5.0
+369,back pain,Capsaicin-Methyl Sal-Menthol,On Label,OTC,5.0,5.0,5.0
+371,back pain,Trolamine Salicylate,On Label,OTC,3.0,4.0,1.0
+373,back pain,Menthol,On Label,OTC,3.0,3.0,2.0
+375,back pain,Trolamine Salicylate-Aloe Vera,On Label,OTC,5.0,5.0,5.0
+376,back pain,Acetaminophen,On Label,OTC,3.0,4.0,3.0
+377,back pain,"Menthol, Camphor-Methyl Salicyl-Menthol",On Label,OTC,5.0,5.0,5.0
+378,back pain,Menthol,On Label,OTC,4.0,5.0,4.0
+379,back pain,Menthol,On Label,OTC,3.0,5.0,4.0
+380,back pain,"Menthol, Capsaicin",On Label,OTC,4.0,5.0,5.0
+382,back pain,Acetaminophen,On Label,OTC,2.0,3.0,4.0
+385,back pain,Acetaminophen,On Label,OTC,5.0,4.0,5.0
+386,back pain,Acetaminophen,On Label,OTC,4.0,5.0,5.0
+387,back pain,Acetaminophen,On Label,OTC,1.0,5.0,1.0
+389,back pain,Acetaminophen,On Label,OTC,3.0,3.0,3.0
+390,back pain,Menthol,On Label,OTC,4.0,4.0,5.0
+391,back pain,Menthol,On Label,OTC,3.0,3.0,3.0
+394,back pain,Capsaicin-Camphor-Menthol,On Label,OTC,5.0,4.0,5.0
+395,back pain,Acetaminophen,On Label,OTC,4.0,4.0,4.0
+396,back pain,Capsaicin In Castor Oil,On Label,OTC,3.0,3.0,4.0
+399,back pain,Acetaminophen,On Label,OTC,1.0,3.0,1.0
+400,back pain,Capsaicin,On Label,OTC,1.0,1.0,1.0
+401,back pain,Menthol,On Label,OTC,1.0,5.0,3.0
+403,back pain,Capsaicin,On Label,OTC,3.0,5.0,1.0
+405,back pain,Acetaminophen,On Label,OTC,4.0,3.0,5.0
+412,Bacterial Conjunctivitis,Moxifloxacin,On Label,RX,3.73,3.78,3.03
+413,Bacterial Conjunctivitis,Ciprofloxacin Hcl,On Label,RX,2.83,3.21,2.52
+415,Bacterial Conjunctivitis,Gentamicin,On Label,RX,3.0,3.96,2.56
+417,Bacterial Conjunctivitis,Moxifloxacin,On Label,RX,3.21,1.97,2.55
+418,Bacterial Conjunctivitis,Erythromycin,Off Label,RX,3.15,2.54,2.23
+419,Bacterial Conjunctivitis,Sulfacetamide Sodium,On Label,RX,2.93,3.29,2.71
+421,Bacterial Conjunctivitis,Besifloxacin,On Label,RX,3.43,3.0,2.79
+422,Bacterial Conjunctivitis,Gatifloxacin,On Label,RX,3.87,4.07,3.53
+423,Bacterial Conjunctivitis,Gentamicin,On Label,RX,2.29,2.57,2.14
+425,Bacterial Conjunctivitis,Ofloxacin,On Label,RX,3.2,4.4,2.8
+426,Bacterial Conjunctivitis,Gatifloxacin,On Label,RX,4.33,4.33,3.33
+427,Bacterial Conjunctivitis,Ciprofloxacin Hcl,On Label,RX,3.25,3.75,2.75
+429,Bacterial Conjunctivitis,Bacitracin,Off Label,RX,3.33,4.67,2.0
+430,Bacterial Conjunctivitis,Sulfacetamide Sodium,On Label,RX,2.0,4.5,4.5
+432,Bacterial Conjunctivitis,Bacitracin-Polymyxin B,Off Label,RX,3.67,3.0,3.0
+433,Bacterial Conjunctivitis,Sulfacetamide-Prednisolone,On Label,RX,3.5,5.0,3.5
+434,Bacterial Conjunctivitis,Levofloxacin,On Label,RX,3.5,4.5,3.0
+435,Bacterial Conjunctivitis,Neomycin-Bacitracin-Polymyxin,Off Label,RX,1.0,4.0,1.0
+436,Bacterial Conjunctivitis,Sulfacetamide-Prednisolone,On Label,RX,1.0,2.0,1.0
+437,Bacterial Conjunctivitis,Neomycin-Polymyxin-Gramicidin,Off Label,RX,5.0,5.0,5.0
+438,Bacterial Conjunctivitis,Azithromycin,On Label,RX,3.0,4.0,2.0
+439,Bacterial Conjunctivitis,Neomycin-Polymyxin-Gramicidin,Off Label,RX,1.0,1.0,1.0
+440,Bacterial Conjunctivitis,Sulfacetamide Sodium,On Label,RX,5.0,5.0,5.0
+441,Bacterial Conjunctivitis,Sulfacetamide Sodium,On Label,RX,1.0,1.0,1.0
+443,Bacterial Conjunctivitis,Levofloxacin,On Label,RX,4.0,5.0,5.0
+444,Bacterial Conjunctivitis,Bacitracin-Polymyxin B,Off Label,RX,4.0,3.0,3.0
+445,Bacterial Conjunctivitis,Erythromycin,Off Label,RX,5.0,5.0,5.0
+446,Bacterial Conjunctivitis,Ofloxacin,On Label,RX,1.0,4.0,1.0
+447,Bacterial Conjunctivitis,Bacitracin-Polymyxin B,Off Label,RX,1.0,1.0,1.0
+448,Bacterial Conjunctivitis,Neomycin-Bacitracin-Polymyxin,Off Label,RX,1.0,2.0,1.0
+449,Bacterial Conjunctivitis,Neomycin-Polymyxin-Gramicidin,Off Label,RX,1.0,5.0,1.0
+450,Bacterial Conjunctivitis,Gentamicin-Prednisolone,On Label,RX,4.0,5.0,4.0
+452,Bacterial Conjunctivitis,Gatifloxacin,On Label,RX,5.0,2.0,5.0
+453,Bacterial Conjunctivitis,Besifloxacin,On Label,RX,3.0,5.0,3.0
+454,Bacterial Urinary Tract Infection,Levofloxacin,On Label,RX,2.52,3.01,1.84
+456,Bacterial Urinary Tract Infection,"Ciprofloxacin Hcl, Ciprofloxacin",On Label,RX,3.06,3.18,2.12
+458,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,3.03,2.88,2.16
+459,Bacterial Urinary Tract Infection,Nitrofurantoin Monohyd/M-Cryst,On Label,RX,2.82,2.86,1.98
+460,Bacterial Urinary Tract Infection,Ciprofloxacin,On Label,RX,3.59,3.78,2.75
+462,Bacterial Urinary Tract Infection,Doxycycline Hyclate,On Label,RX,3.54,3.72,3.11
+464,Bacterial Urinary Tract Infection,Amoxicillin-Pot Clavulanate,On Label,RX,3.26,3.23,2.42
+467,Bacterial Urinary Tract Infection,Levofloxacin,On Label,RX,2.44,2.96,1.68
+469,Bacterial Urinary Tract Infection,Cephalexin,On Label,RX,2.93,3.47,2.24
+470,Bacterial Urinary Tract Infection,Cefdinir,Off Label,RX,2.36,3.35,1.85
+472,Bacterial Urinary Tract Infection,Cephalexin,On Label,RX,2.85,3.14,2.18
+473,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,2.95,3.2,2.14
+474,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,3.19,3.25,2.28
+476,Bacterial Urinary Tract Infection,Nitrofurantoin,On Label,RX,2.51,2.57,1.8
+478,Bacterial Urinary Tract Infection,Doxycycline Calcium,On Label,RX,3.47,3.27,2.92
+479,Bacterial Urinary Tract Infection,Minocycline,On Label,RX,3.07,3.65,2.38
+481,Bacterial Urinary Tract Infection,Cefuroxime Axetil,On Label,RX,3.15,3.06,2.33
+483,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,3.0,3.72,2.62
+484,Bacterial Urinary Tract Infection,Amoxicillin-Pot Clavulanate,On Label,RX,2.74,3.04,2.12
+488,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,3.0,2.83,2.38
+490,Bacterial Urinary Tract Infection,Cefdinir,Off Label,RX,2.36,3.78,1.69
+492,Bacterial Urinary Tract Infection,Doxycycline Hyclate,On Label,RX,3.36,3.5,2.8
+493,Bacterial Urinary Tract Infection,Cefuroxime Axetil,On Label,RX,3.23,3.62,2.85
+495,Bacterial Urinary Tract Infection,Nitrofurantoin Monohyd/M-Cryst,On Label,RX,2.85,2.45,1.6
+496,Bacterial Urinary Tract Infection,Nitrofurantoin Macrocrystal,On Label,RX,4.18,4.24,3.59
+497,Bacterial Urinary Tract Infection,Fosfomycin Tromethamine,On Label,RX,4.06,4.79,4.0
+498,Bacterial Urinary Tract Infection,Cefixime,On Label,RX,2.73,3.09,1.45
+500,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,2.9,3.5,1.7
+502,Bacterial Urinary Tract Infection,Trimethoprim,On Label,RX,3.32,3.58,3.0
+503,Bacterial Urinary Tract Infection,Doxycycline Monohydrate,On Label,RX,3.21,3.79,3.29
+504,Bacterial Urinary Tract Infection,Ceftriaxone,On Label,RX,3.67,2.67,3.33
+505,Bacterial Urinary Tract Infection,"Doxycycline Calcium, Doxycycline Hyclate, Doxycycline Monohydrate",On Label,RX,1.86,2.0,1.57
+506,Bacterial Urinary Tract Infection,Levofloxacin,On Label,RX,4.0,3.71,2.43
+507,Bacterial Urinary Tract Infection,Doxycycline Hyclate,On Label,RX,3.82,3.91,3.27
+508,Bacterial Urinary Tract Infection,Doxycycline Monohydrate,On Label,RX,4.23,3.69,3.88
+509,Bacterial Urinary Tract Infection,Cefadroxil,On Label,RX,2.64,3.36,2.07
+510,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,3.36,2.45,2.73
+511,Bacterial Urinary Tract Infection,Levofloxacin,On Label,RX,3.29,4.43,3.0
+512,Bacterial Urinary Tract Infection,Minocycline,On Label,RX,3.22,3.22,2.56
+513,Bacterial Urinary Tract Infection,Ciprofloxacin Hcl,On Label,RX,3.57,3.43,3.0
+514,Bacterial Urinary Tract Infection,Doxycycline Monohydrate,On Label,RX,3.91,4.45,4.0
+515,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,2.5,2.0,1.25
+516,Bacterial Urinary Tract Infection,Cefaclor,On Label,RX,2.14,4.0,1.57
+518,Bacterial Urinary Tract Infection,Ampicillin,On Label,RX,3.0,3.25,3.0
+519,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,2.75,3.0,2.25
+520,Bacterial Urinary Tract Infection,Cefaclor,On Label,RX,3.33,4.0,2.17
+523,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,2.67,2.67,2.67
+524,Bacterial Urinary Tract Infection,Ceftriaxone,On Label,RX,5.0,5.0,5.0
+525,Bacterial Urinary Tract Infection,Cefadroxil,On Label,RX,2.25,2.25,1.88
+526,Bacterial Urinary Tract Infection,Cefazolin,On Label,RX,2.5,2.5,2.5
+527,Bacterial Urinary Tract Infection,Doxycycline Hyclate,On Label,RX,2.0,2.33,1.67
+528,Bacterial Urinary Tract Infection,Ofloxacin,On Label,RX,1.0,2.0,1.0
+529,Bacterial Urinary Tract Infection,Ofloxacin,On Label,RX,1.0,3.0,1.0
+530,Bacterial Urinary Tract Infection,Cefixime,On Label,RX,4.5,4.0,4.5
+532,Bacterial Urinary Tract Infection,Cefazolin,On Label,RX,2.33,2.0,2.33
+533,Bacterial Urinary Tract Infection,Nitrofurantoin,On Label,RX,5.0,4.67,4.67
+534,Bacterial Urinary Tract Infection,Cefepime,On Label,RX,3.0,5.0,2.5
+535,Bacterial Urinary Tract Infection,Minocycline,On Label,RX,4.5,4.5,3.5
+536,Bacterial Urinary Tract Infection,Imipenem-Cilastatin,On Label,RX,5.0,5.0,5.0
+537,Bacterial Urinary Tract Infection,Levofloxacin,On Label,RX,5.0,5.0,5.0
+538,Bacterial Urinary Tract Infection,Cefazolin,On Label,RX,2.5,2.5,1.0
+539,Bacterial Urinary Tract Infection,Amikacin,On Label,RX,1.0,1.0,1.0
+540,Bacterial Urinary Tract Infection,Levofloxacin In D5W,On Label,RX,1.0,3.0,1.0
+541,Bacterial Urinary Tract Infection,Sulfadiazine,On Label,RX,5.0,4.0,5.0
+542,Bacterial Urinary Tract Infection,"Cefepime In Dextrose,Iso-Osm",On Label,RX,5.0,5.0,5.0
+543,Bacterial Urinary Tract Infection,Doxycycline Hyclate,On Label,RX,5.0,2.0,2.0
+544,Bacterial Urinary Tract Infection,Ceftazidime,On Label,RX,3.0,3.0,3.0
+545,Bacterial Urinary Tract Infection,Acetohydroxamic Acid,On Label,RX,2.5,4.0,2.0
+546,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,5.0,4.0,4.0
+548,Bacterial Urinary Tract Infection,Aztreonam,On Label,RX,4.0,3.0,2.0
+549,Bacterial Urinary Tract Infection,Trimethoprim,On Label,RX,4.5,3.0,3.0
+550,Bacterial Urinary Tract Infection,Demeclocycline,On Label,RX,1.0,1.0,1.0
+551,Bacterial Urinary Tract Infection,Doxycycline Hyclate,On Label,RX,3.0,1.0,1.0
+552,Bacterial Urinary Tract Infection,Levofloxacin In D5W,On Label,RX,2.0,4.0,1.0
+553,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,1.0,4.0,1.0
+554,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,1.0,1.0,1.0
+555,Bacterial Urinary Tract Infection,Ceftazidime,On Label,RX,1.0,5.0,1.0
+556,Bacterial Urinary Tract Infection,Streptomycin,On Label,RX,4.0,3.0,2.0
+557,Bacterial Urinary Tract Infection,Fosfomycin Tromethamine,On Label,RX,5.0,5.0,5.0
+558,Bacterial Urinary Tract Infection,"Ceftriaxone In Dextrose,Iso-Os",On Label,RX,5.0,5.0,5.0
+559,Bacterial Urinary Tract Infection,Cefaclor,On Label,RX,3.0,5.0,4.0
+560,Bacterial Urinary Tract Infection,Trimethoprim,On Label,RX,4.5,3.5,2.0
+561,Bacterial Urinary Tract Infection,Demeclocycline,On Label,RX,1.0,5.0,1.0
+562,Bacterial Urinary Tract Infection,Doxycycline Hyclate,On Label,RX,1.0,1.5,1.0
+563,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,2.0,2.0,2.0
+564,Bacterial Urinary Tract Infection,Cefaclor,Off Label,RX,4.0,4.0,4.0
+565,Bacterial Urinary Tract Infection,Sulfamethoxazole-Trimethoprim,On Label,RX,1.0,1.0,1.0
+566,Bacterial Urinary Tract Infection,Ampicillin Sodium,On Label,RX,5.0,5.0,5.0
+567,Bacterial Urinary Tract Infection,Cephalexin,On Label,RX,2.0,5.0,1.0
+569,Bacterial Urinary Tract Infection,Aztreonam,On Label,RX,3.0,2.0,3.0
+570,Bacterial Urinary Tract Infection,Ciprofloxacin Hcl,Off Label,RX,5.0,5.0,5.0
+571,Bacterial Urinary Tract Infection,Doxycycline Hyclate,On Label,RX,4.0,5.0,4.0
+572,Bacterial Urinary Tract Infection,Cefazolin In Dextrose (Iso-Os),On Label,RX,1.0,1.0,1.0
+573,Bacterial Urinary Tract Infection,"Ceftriaxone In Dextrose,Iso-Os",On Label,RX,5.0,2.0,5.0
+574,Bacterial Urinary Tract Infection,Ampicillin Sodium,On Label,RX,1.0,1.0,1.0
+575,Bacterial Urinary Tract Infection,Ampicillin,On Label,RX,3.0,2.0,1.0
+576,Bacterial Urinary Tract Infection,Cephalexin,On Label,RX,5.0,5.0,5.0
+577,Bacterial Urinary Tract Infection,Imipenem-Cilastatin,On Label,RX,5.0,3.0,4.0
+578,Bacterial Urinary Tract Infection,Doxycycline Hyclate,On Label,RX,3.0,3.0,2.0
+579,Bacterial Urinary Tract Infection,Cefuroxime Sodium,On Label,RX,5.0,5.0,5.0
+580,Bacterial Urinary Tract Infection,Doxycycline Hyclate,On Label,RX,5.0,5.0,5.0
+581,Bacterial Urinary Tract Infection,Cefepime,On Label,RX,4.0,2.0,4.0
+583,Bacterial Urinary Tract Infection,Cefazolin In Dextrose (Iso-Os),On Label,RX,3.0,5.0,1.0
+584,Bacterial Urinary Tract Infection,Ciprofloxacin In 5 % Dextrose,On Label,RX,1.0,1.0,1.0
+585,biliary calculus,Ursodiol,On Label,RX,3.95,4.45,3.82
+586,biliary calculus,Ursodiol,Off Label,RX,4.17,4.52,4.0
+587,biliary calculus,Ursodiol,On Label,RX,4.57,4.71,4.29
+588,biliary calculus,Ursodiol,Off Label,RX,4.38,4.13,4.5
+589,chickenpox,Valacyclovir,On Label,RX,4.29,4.6,4.15
+590,chickenpox,Valacyclovir,On Label,RX,3.96,4.16,3.61
+591,chickenpox,Acyclovir,On Label,RX,4.25,3.5,3.75
+592,chickenpox,Acyclovir Sodium,On Label,RX,5.0,4.5,5.0
+593,colorectal cancer,Fluorouracil,On Label,RX,3.0,1.0,3.0
+594,depression,Amitriptyline,On Label,RX,3.53,4.29,3.15
+595,depression,Nortriptyline,On Label,RX,3.34,4.01,3.02
+596,depression,Amitriptyline,On Label,RX,3.36,4.15,3.02
+597,depression,Doxepin,On Label,RX,3.71,4.52,3.4
+600,depression,Fluvoxamine,Off Label,RX,3.61,4.12,3.35
+601,depression,Nortriptyline,On Label,RX,3.31,3.89,3.05
+602,depression,Imipramine Hcl,On Label,RX,3.21,3.58,3.04
+603,depression,Phenelzine,On Label,RX,4.36,4.28,4.2
+604,depression,Fluvoxamine,Off Label,RX,3.83,4.07,3.59
+605,depression,Clomipramine,Off Label,RX,3.71,3.89,3.29
+606,depression,Clomipramine,Off Label,RX,3.67,4.18,3.39
+607,depression,Fluvoxamine,Off Label,RX,3.73,4.33,3.7
+609,depression,Desipramine,On Label,RX,3.18,4.53,2.88
+610,depression,Amitriptyline,On Label,RX,2.8,3.9,2.4
+611,depression,Doxepin,On Label,RX,3.13,4.0,3.0
+613,depression,Desipramine,On Label,RX,4.0,4.23,3.46
+614,depression,Imipramine Pamoate,On Label,RX,2.82,3.55,2.82
+615,depression,Imipramine Pamoate,On Label,RX,3.45,4.45,3.0
+616,depression,Nortriptyline,On Label,RX,3.0,4.0,2.88
+617,depression,Protriptyline,On Label,RX,3.63,4.75,3.63
+618,depression,Protriptyline,On Label,RX,3.33,4.5,3.5
+619,depression,Maprotiline,On Label,RX,3.2,3.4,3.2
+620,depression,Phenelzine,On Label,RX,3.0,3.5,2.5
+621,depression,Maprotiline,On Label,RX,4.5,3.25,4.25
+622,depression,Doxepin,On Label,RX,5.0,5.0,5.0
+623,depression,Amoxapine,On Label,RX,4.0,5.0,3.5
+624,depression,Amoxapine,On Label,RX,5.0,5.0,5.0
+625,depression,Amitriptyline,On Label,RX,3.0,4.0,3.0
+626,diverticulitis of gastrointestinal tract,Metronidazole,Off Label,RX,3.9,3.22,3.11
+627,diverticulitis of gastrointestinal tract,"Ciprofloxacin Hcl, Ciprofloxacin",Off Label,RX,3.06,3.18,2.12
+629,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,3.03,2.88,2.16
+630,diverticulitis of gastrointestinal tract,Metronidazole,Off Label,RX,3.78,3.09,2.73
+631,diverticulitis of gastrointestinal tract,Ciprofloxacin,Off Label,RX,3.59,3.78,2.75
+633,diverticulitis of gastrointestinal tract,Amoxicillin-Pot Clavulanate,Off Label,RX,3.26,3.23,2.42
+636,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,2.95,3.2,2.14
+637,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,3.19,3.25,2.28
+639,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,3.0,3.72,2.62
+640,diverticulitis of gastrointestinal tract,Amoxicillin-Pot Clavulanate,Off Label,RX,2.74,3.04,2.12
+644,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,3.0,2.83,2.38
+646,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,2.9,3.5,1.7
+648,diverticulitis of gastrointestinal tract,Piperacillin-Tazobactam,Off Label,RX,2.75,2.63,2.75
+649,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,3.36,2.45,2.73
+650,diverticulitis of gastrointestinal tract,Ciprofloxacin Hcl,Off Label,RX,3.57,3.43,3.0
+651,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,2.5,2.0,1.25
+652,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,2.75,3.0,2.25
+653,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,2.67,2.67,2.67
+654,diverticulitis of gastrointestinal tract,Meropenem,Off Label,RX,5.0,3.0,4.0
+655,diverticulitis of gastrointestinal tract,Tigecycline,On Label,RX,3.0,2.33,2.67
+656,diverticulitis of gastrointestinal tract,Metronidazole,Off Label,RX,3.0,4.0,2.0
+657,diverticulitis of gastrointestinal tract,Clindamycin Phosphate,Off Label,RX,4.5,4.0,4.0
+658,diverticulitis of gastrointestinal tract,Amikacin,On Label,RX,1.0,1.0,1.0
+659,diverticulitis of gastrointestinal tract,Ampicillin-Sulbactam,Off Label,RX,5.0,5.0,5.0
+660,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,5.0,4.0,4.0
+662,diverticulitis of gastrointestinal tract,Clindamycin In 5 % Dextrose,Off Label,RX,3.0,5.0,3.0
+663,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,1.0,4.0,1.0
+664,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,1.0,1.0,1.0
+665,diverticulitis of gastrointestinal tract,Metronidazole,Off Label,RX,3.0,3.0,3.0
+666,diverticulitis of gastrointestinal tract,Clindamycin Phosphate,Off Label,RX,2.0,3.0,1.0
+667,diverticulitis of gastrointestinal tract,Ampicillin-Sulbactam,Off Label,RX,1.0,5.0,1.0
+668,diverticulitis of gastrointestinal tract,Metronidazole In Nacl (Iso-Os),Off Label,RX,1.0,1.0,1.0
+669,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,1.0,1.0,1.0
+670,diverticulitis of gastrointestinal tract,Sulfamethoxazole-Trimethoprim,Off Label,RX,2.0,2.0,2.0
+672,diverticulitis of gastrointestinal tract,Metronidazole,Off Label,RX,5.0,3.0,4.0
+673,diverticulitis of gastrointestinal tract,Ciprofloxacin In 5 % Dextrose,Off Label,RX,1.0,1.0,1.0
+674,edema,Hydrochlorothiazide,On Label,RX,3.3,3.96,2.77
+675,edema,Spironolactone,On Label,RX,3.88,4.36,3.5
+676,edema,Furosemide,On Label,RX,3.05,4.16,2.97
+678,edema,Furosemide,On Label,RX,3.21,4.01,2.99
+680,edema,Triamterene-Hydrochlorothiazid,On Label,RX,3.88,4.24,3.45
+681,edema,Acetazolamide,On Label,RX,3.52,3.41,2.97
+682,edema,Acetazolamide,On Label,RX,3.69,3.27,2.81
+683,edema,Spironolactone,On Label,RX,3.95,4.4,3.25
+684,edema,Triamterene-Hydrochlorothiazid,On Label,RX,3.83,4.46,3.31
+685,edema,Chlorthalidone,On Label,RX,3.02,3.9,2.25
+686,edema,Torsemide,On Label,RX,3.85,4.1,3.1
+687,edema,Triamterene-Hydrochlorothiazid,On Label,RX,3.46,4.21,3.18
+688,edema,Bumetanide,On Label,RX,3.78,4.17,3.61
+689,edema,Hydrochlorothiazide,On Label,RX,4.12,4.41,3.94
+690,edema,Bumetanide,On Label,RX,4.0,4.5,3.63
+691,edema,Spironolacton-Hydrochlorothiaz,On Label,RX,3.27,3.67,3.0
+692,edema,Torsemide,On Label,RX,3.17,3.0,2.67
+693,edema,Ethacrynic Acid,On Label,RX,4.33,4.0,3.0
+694,edema,Spironolacton-Hydrochlorothiaz,On Label,RX,4.17,3.83,2.67
+695,edema,Triamterene,On Label,RX,3.33,4.0,1.67
+696,edema,Amiloride-Hydrochlorothiazide,On Label,RX,2.33,2.33,2.0
+697,edema,Amiloride-Hydrochlorothiazide,On Label,RX,2.67,3.0,2.33
+698,edema,Indapamide,On Label,RX,3.8,4.6,3.4
+699,edema,Hydrochlorothiazide,On Label,RX,3.33,3.67,3.0
+700,edema,Chlorothiazide,On Label,RX,3.0,5.0,3.0
+701,edema,Furosemide,On Label,RX,2.0,5.0,1.0
+702,edema,Triamterene-Hydrochlorothiazid,On Label,RX,3.0,5.0,3.0
+703,edema,Chlorthalidone,On Label,RX,1.0,5.0,1.0
+704,edema,Hydrochlorothiazide,On Label,RX,3.0,5.0,2.0
+705,edema,Hydrochlorothiazide,On Label,RX,3.0,4.0,2.0
+706,edema,"Triamterene-Hydrochlorothiazid, Trichlormethiazide",On Label,RX,2.0,1.0,1.0
+707,edema,Triamterene-Hydrochlorothiazid,On Label,RX,2.0,1.0,1.0
+708,edema,Spironolacton-Hydrochlorothiaz,On Label,RX,1.0,4.0,1.0
+709,edema,Hydrochlorothiazide,On Label,RX,5.0,5.0,5.0
+710,edema,Furosemide,On Label,RX,2.0,2.0,2.0
+711,edema,Hydrochlorothiazide,On Label,RX,1.0,1.0,1.0
+712,edema,Bumetanide,On Label,RX,1.0,2.0,1.0
+713,edema,Hydrochlorothiazide,On Label,RX,5.0,5.0,4.0
+714,edema,Chlorthalidone,On Label,RX,4.0,4.0,4.0
+715,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,4.2,4.2,2.8
+716,endometriosis,Medroxyprogesterone,Off Label,RX,4.36,4.22,2.5
+717,endometriosis,Noreth-Ethinyl Estradiol-Iron,Off Label,RX,4.07,4.44,2.64
+718,endometriosis,L Norgest/E.Estradiol-E.Estrad,Off Label,RX,3.69,4.13,2.58
+719,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,4.06,4.06,2.33
+720,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.14,4.26,2.79
+721,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,3.87,3.96,1.83
+722,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,4.02,4.24,2.69
+723,endometriosis,Norgestrel-Ethinyl Estradiol,Off Label,RX,4.11,4.16,2.32
+724,endometriosis,Medroxyprogesterone,Off Label,RX,4.1,4.0,2.41
+726,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.1,4.46,2.85
+727,endometriosis,Noreth-Ethinyl Estradiol-Iron,Off Label,RX,3.83,4.04,2.52
+728,endometriosis,Norgestimate-Ethinyl Estradiol,Off Label,RX,4.39,4.35,3.08
+729,endometriosis,L Norgest/E.Estradiol-E.Estrad,Off Label,RX,3.19,3.99,2.06
+730,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,4.3,4.45,2.45
+731,endometriosis,Norgestrel-Ethinyl Estradiol,Off Label,RX,4.48,4.67,3.3
+732,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,3.83,4.1,2.44
+733,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,2.83,4.29,2.38
+734,endometriosis,Levonorg-Eth Estrad Triphasic,Off Label,RX,4.58,4.34,3.13
+735,endometriosis,Levonorg-Eth Estrad Triphasic,Off Label,RX,3.71,3.82,1.9
+736,endometriosis,Norgestimate-Ethinyl Estradiol,Off Label,RX,3.11,3.55,1.38
+737,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,3.65,4.09,2.53
+738,endometriosis,Norethindrone Acetate,On Label,RX,3.81,4.33,3.5
+739,endometriosis,Norgestrel-Ethinyl Estradiol,Off Label,RX,4.17,4.17,2.79
+740,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.29,4.28,2.63
+741,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,4.45,3.92,2.51
+742,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.48,4.38,3.15
+743,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,3.88,3.88,2.33
+744,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.24,4.16,3.0
+745,endometriosis,L Norgest/E.Estradiol-E.Estrad,Off Label,RX,4.09,4.27,2.77
+746,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.08,3.95,2.4
+747,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.43,4.35,2.53
+748,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.52,4.36,2.8
+749,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,4.2,4.0,2.66
+750,endometriosis,Norethindrone Ac-Eth Estradiol,Off Label,RX,4.5,4.42,3.17
+751,endometriosis,Norethindrone Ac-Eth Estradiol,Off Label,RX,3.94,4.51,2.66
+752,endometriosis,Norgestimate-Ethinyl Estradiol,Off Label,RX,4.47,4.58,2.64
+753,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,4.03,4.24,2.71
+754,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,3.48,3.8,2.12
+755,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,4.05,4.07,2.1
+756,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.38,4.62,2.97
+757,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,3.53,3.83,2.33
+758,endometriosis,Norgestimate-Ethinyl Estradiol,Off Label,RX,3.62,4.21,2.26
+759,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,4.1,4.67,3.33
+760,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,2.64,2.58,1.31
+761,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,3.68,3.95,2.27
+762,endometriosis,L Norgest/E.Estradiol-E.Estrad,Off Label,RX,4.31,4.06,2.13
+763,endometriosis,Norethin-E.Estradiol Triphasic,Off Label,RX,4.32,4.28,2.84
+764,endometriosis,Norethindrone Ac-Eth Estradiol,Off Label,RX,3.39,3.96,2.22
+765,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.5,4.75,3.5
+766,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.52,4.19,2.0
+767,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,4.76,4.71,2.94
+768,endometriosis,Norethin-E.Estradiol Triphasic,Off Label,RX,4.08,4.46,3.62
+769,endometriosis,Danazol,On Label,RX,3.38,3.88,3.38
+770,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.4,3.93,2.53
+771,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,4.88,4.82,4.47
+772,endometriosis,Norgestimate-Ethinyl Estradiol,Off Label,RX,3.58,4.0,3.08
+773,endometriosis,L Norgest/E.Estradiol-E.Estrad,Off Label,RX,4.0,4.71,2.43
+774,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,3.92,4.08,3.54
+775,endometriosis,Norethindrone Ac-Eth Estradiol,Off Label,RX,4.28,3.72,2.83
+776,endometriosis,Norethin-E.Estradiol Triphasic,Off Label,RX,4.38,4.13,3.5
+777,endometriosis,Norgestimate-Ethinyl Estradiol,Off Label,RX,3.36,3.27,1.64
+778,endometriosis,Norethindrone Ac-Eth Estradiol,Off Label,RX,4.7,4.7,2.9
+779,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,3.64,3.82,2.73
+782,endometriosis,L Norgest/E.Estradiol-E.Estrad,Off Label,RX,3.33,4.33,1.17
+783,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,4.67,4.5,4.5
+784,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,5.0,4.92,3.58
+785,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,4.17,4.17,2.25
+786,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,3.92,4.08,3.42
+787,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,4.5,4.38,3.63
+788,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,4.75,4.38,3.13
+789,endometriosis,Levonorg-Eth Estrad Triphasic,Off Label,RX,4.45,4.55,2.55
+790,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,3.67,5.0,4.0
+791,endometriosis,Medroxyprogesterone,On Label,RX,4.73,4.55,3.0
+792,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.0,3.44,2.22
+793,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,4.5,4.38,2.5
+794,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,3.67,4.33,3.67
+795,endometriosis,Noreth-Ethinyl Estradiol-Iron,Off Label,RX,3.57,4.14,2.43
+796,endometriosis,Norgestrel-Ethinyl Estradiol,Off Label,RX,3.67,3.67,3.67
+797,endometriosis,Norethindrone Ac-Eth Estradiol,Off Label,RX,2.0,2.33,1.0
+798,endometriosis,Triptorelin Pamoate,Off Label,RX,3.33,3.5,2.17
+799,endometriosis,Norethin-E.Estradiol Triphasic,Off Label,RX,4.4,3.6,1.8
+800,endometriosis,Levonorg-Eth Estrad Triphasic,Off Label,RX,4.38,4.75,4.13
+801,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,5.0,5.0,3.67
+802,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,3.33,3.33,3.0
+803,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,4.0,4.2,3.8
+804,endometriosis,Levonorg-Eth Estrad Triphasic,Off Label,RX,5.0,5.0,5.0
+805,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.6,4.2,3.2
+806,endometriosis,Norethindrone Ac-Eth Estradiol,Off Label,RX,4.5,4.25,3.0
+807,endometriosis,Medroxyprogesterone,Off Label,RX,4.4,4.8,3.2
+809,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,5.0,5.0,4.6
+810,endometriosis,Norgestrel-Ethinyl Estradiol,Off Label,RX,3.0,5.0,3.0
+811,endometriosis,Danazol,On Label,RX,2.25,3.5,2.0
+812,endometriosis,Norgestrel-Ethinyl Estradiol,Off Label,RX,4.67,5.0,3.67
+813,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,3.8,4.6,1.8
+814,endometriosis,Noreth-Ethinyl Estradiol-Iron,Off Label,RX,3.25,4.5,2.25
+815,endometriosis,Nafarelin,On Label,RX,3.0,3.0,2.0
+816,endometriosis,Triptorelin Pamoate,Off Label,RX,3.8,2.6,2.6
+817,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,4.75,5.0,4.25
+818,endometriosis,Norethin-E.Estradiol Triphasic,Off Label,RX,3.5,2.0,1.0
+819,endometriosis,Norethin-E.Estradiol Triphasic,Off Label,RX,3.33,5.0,2.33
+820,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,5.0,5.0,5.0
+821,endometriosis,Goserelin,On Label,RX,4.0,5.0,5.0
+822,endometriosis,Norethin-E.Estradiol Triphasic,Off Label,RX,4.67,3.67,3.33
+823,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,5.0,4.67,2.33
+824,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,4.5,4.0,2.5
+825,endometriosis,Norethindrone Ac-Eth Estradiol,Off Label,RX,2.33,3.33,2.0
+827,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,5.0,4.5,5.0
+828,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,3.0,5.0,1.0
+831,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,5.0,3.67,2.0
+832,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,2.67,4.67,2.33
+833,endometriosis,Norethin-Eth Estrad Biphasic,Off Label,RX,4.5,4.25,3.0
+834,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.67,4.33,3.33
+835,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,1.0,4.5,1.5
+836,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,5.0,4.0,4.5
+837,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,1.0,1.0,1.0
+838,endometriosis,Norethindrone Ac-Eth Estradiol,Off Label,RX,5.0,5.0,2.5
+839,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,4.5,4.0,2.0
+840,endometriosis,Noreth-Ethinyl Estradiol-Iron,Off Label,RX,2.0,4.0,2.0
+841,endometriosis,Norethin-E.Estradiol Triphasic,Off Label,RX,2.0,5.0,1.0
+842,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,5.0,5.0,5.0
+843,endometriosis,Triptorelin Pamoate,Off Label,RX,4.0,3.0,3.0
+846,endometriosis,Norgestrel-Ethinyl Estradiol,Off Label,RX,5.0,5.0,5.0
+847,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,5.0,5.0,5.0
+848,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,3.0,3.0,3.0
+849,endometriosis,Medroxyprogesterone,On Label,RX,3.5,5.0,3.0
+850,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,5.0,5.0,3.5
+851,endometriosis,"Norethin-E.Estradiol Triphasic, Norethindrone-Ethin Estradiol",Off Label,RX,1.0,5.0,1.0
+852,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,2.5,3.0,2.5
+853,endometriosis,Norgestrel-Ethinyl Estradiol,Off Label,RX,5.0,5.0,4.5
+854,endometriosis,Triptorelin Pamoate,Off Label,RX,4.0,4.5,2.0
+858,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,5.0,4.0,5.0
+859,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,4.0,5.0,4.0
+860,endometriosis,Levonorg-Eth Estrad Triphasic,Off Label,RX,1.0,3.0,1.0
+861,endometriosis,Norethindrone Ac-Eth Estradiol,Off Label,RX,5.0,5.0,4.0
+862,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,5.0,5.0,1.0
+863,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,4.0,4.0,3.0
+864,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,5.0,5.0,5.0
+865,endometriosis,Levonorgestrel-Ethinyl Estrad,Off Label,RX,5.0,5.0,2.0
+866,endometriosis,Norgestrel-Ethinyl Estradiol,Off Label,RX,4.0,4.0,1.0
+868,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,3.0,4.0,2.0
+869,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,5.0,5.0,5.0
+870,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,4.0,4.0,4.0
+871,endometriosis,Noreth-Ethinyl Estradiol-Iron,Off Label,RX,4.0,4.0,4.0
+872,endometriosis,Noreth-Ethinyl Estradiol-Iron,Off Label,RX,5.0,5.0,5.0
+873,endometriosis,Levonorg-Eth Estrad Triphasic,Off Label,RX,4.0,5.0,1.0
+874,endometriosis,L Norgest/E.Estradiol-E.Estrad,Off Label,RX,5.0,4.0,3.0
+875,endometriosis,Norethindrone-E.Estradiol-Iron,Off Label,RX,1.0,1.0,1.0
+876,endometriosis,Norethindrone-Ethin Estradiol,Off Label,RX,5.0,5.0,4.0
+878,fever,Naproxen,On Label,RX,2.82,3.7,2.42
+881,fever,Indomethacin,Off Label,RX,3.97,4.25,3.67
+884,fever,Ibuprofen,On Label,RX/OTC,3.37,3.98,3.13
+888,fever,Naproxen Sodium,On Label,OTC,3.5,4.24,3.13
+889,fever,Acetaminophen,On Label,OTC,3.07,3.85,3.15
+890,fever,Naproxen Sodium,On Label,RX/OTC,3.12,4.23,2.73
+892,fever,Indomethacin,Off Label,RX,4.22,4.41,4.06
+895,fever,Acetaminophen,On Label,OTC,3.31,4.06,3.13
+899,fever,Naproxen,Off Label,RX,3.27,3.64,2.91
+901,fever,Aspirin,On Label,RX/OTC,4.27,4.64,4.55
+905,fever,Doxylamin-PSE-DM-Acetaminophen,On Label,OTC,3.26,4.21,2.63
+906,fever,Ibuprofen,On Label,RX/OTC,3.64,4.18,3.64
+910,fever,Ibuprofen,On Label,OTC,4.2,4.4,4.2
+912,fever,Ibuprofen,On Label,OTC,4.21,4.79,4.0
+913,fever,ASA-Acetaminophen-Salicyl-Caff,On Label,RX,2.23,2.46,2.15
+914,fever,Phenyleph-DM-Acetamin-Guaifen,On Label,OTC,2.75,4.0,2.44
+915,fever,Pseudoephedrine-Ibuprofen,On Label,OTC,4.92,4.92,4.75
+916,fever,Pseudoeph-DM-GG-Acetaminophen,On Label,OTC,4.75,4.13,4.25
+917,fever,Ibuprofen,On Label,OTC,4.75,5.0,4.75
+918,fever,Acetaminophen,On Label,OTC,3.73,4.36,3.55
+919,fever,Acetaminophen,On Label,OTC,4.5,4.0,4.25
+920,fever,Acetaminophen,On Label,OTC,3.0,4.25,2.5
+921,fever,Acetaminophen,On Label,OTC,2.2,4.0,2.8
+922,fever,Acetaminophen,On Label,OTC,3.5,4.0,3.75
+923,fever,Ibuprofen,On Label,OTC,4.0,4.4,4.2
+924,fever,Acetaminophen-Caffeine,On Label,OTC,5.0,4.88,4.88
+925,fever,Indomethacin,Off Label,RX,4.4,4.6,4.2
+926,fever,Phenyltoloxamine-Acetaminophen,On Label,RX,4.0,3.8,4.0
+927,fever,Naproxen Sodium,Off Label,RX,3.33,3.67,3.0
+928,fever,Doxylamin-PSE-DM-Acetaminophen,On Label,OTC,4.33,5.0,4.33
+929,fever,Aspirin,On Label,OTC,5.0,5.0,5.0
+930,fever,Chlorpheniram-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+931,fever,Acetaminophen,On Label,OTC,3.67,4.67,4.33
+932,fever,Acetaminophen,On Label,OTC,4.5,4.5,4.5
+933,fever,Phenyltoloxamine-Acetaminophen,On Label,RX,3.5,5.0,3.25
+934,fever,Pseudoeph-DM-GG-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+935,fever,"ASA-Acetaminophen-Salicyl-Caff, Mg Salicylat-Acetaminophen-Caf",On Label,OTC,2.6,3.0,2.8
+936,fever,ASA-Acetaminophen-Salicyl-Caff,On Label,OTC,5.0,4.0,5.0
+937,fever,"Choline,Magnesium Salicylate",On Label,RX,2.33,4.0,1.67
+938,fever,Acetaminophen,On Label,OTC,5.0,5.0,5.0
+939,fever,Acetaminophen,On Label,OTC,2.0,2.0,1.0
+940,fever,Naproxen Sodium,On Label,OTC,4.0,5.0,5.0
+941,fever,Doxylamin-PSE-DM-Acetaminophen,On Label,OTC,2.0,2.5,1.0
+942,fever,Pseudoeph-DM-GG-Acetaminophen,On Label,OTC,4.0,5.0,2.5
+943,fever,"Aspirin, Buffered",On Label,OTC,5.0,5.0,5.0
+944,fever,Aspirin,On Label,OTC,3.0,5.0,5.0
+945,fever,Acetaminophen,On Label,OTC,1.5,2.5,1.5
+946,fever,Phenyltoloxamine-Acetaminophen,On Label,OTC,4.5,4.5,5.0
+947,fever,Aspirin,On Label,OTC,4.0,5.0,5.0
+948,fever,Acetaminophen,On Label,OTC,3.0,4.0,3.0
+949,fever,Naproxen-Pseudoephedrine,On Label,OTC,4.5,5.0,3.0
+950,fever,Acetaminophen,On Label,OTC,4.5,4.0,4.5
+951,fever,Acetaminophen,On Label,RX,4.0,4.75,4.0
+952,fever,Naproxen Sodium,Off Label,RX,4.0,5.0,4.0
+953,fever,"Chlorphen-PE-DM-Acetaminophen, Cpm-Pseudoeph-DM-Acetaminophen",On Label,OTC,5.0,5.0,5.0
+954,fever,DM-PE-Acetam/DM-Acetam-Doxylam,On Label,OTC,3.0,3.0,3.0
+955,fever,Phenyltoloxamine-Acetaminophen,On Label,OTC,3.67,4.33,3.33
+956,fever,Aspirin,On Label,OTC,5.0,5.0,4.5
+957,fever,Ibuprofen,On Label,OTC,4.0,4.67,4.33
+960,fever,Aspirin,On Label,OTC,4.5,4.5,4.5
+961,fever,Phenyltoloxamine-Acetaminophen,On Label,RX,4.67,5.0,4.33
+962,fever,Cpm-Pseudoeph-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+963,fever,Pseudoeph-DM-GG-Acetaminophen,On Label,RX,4.0,3.0,4.0
+964,fever,Acetaminophen,On Label,RX,1.67,3.0,1.67
+965,fever,Phenyltoloxamine-Acetaminophen,On Label,RX/OTC,2.5,4.0,2.5
+966,fever,"Chlorpheniramine-Acetaminophen, Chlorphen-PPA-Acetaminophen",On Label,OTC,4.0,3.0,5.0
+967,fever,Phenyleph-DM-Acetamin-Guaifen,On Label,OTC,3.5,3.0,1.5
+968,fever,Phenyleph-DM-Acetamin-Guaifen,On Label,OTC,2.75,4.25,2.5
+969,fever,Pseudoephed-DM-Acetaminophen,On Label,OTC,4.0,4.67,3.0
+970,fever,Pseudoephed-DM-Acetaminophen,On Label,OTC,3.0,4.0,2.0
+971,fever,Ibuprofen,On Label,OTC,2.5,3.0,1.0
+973,fever,Phenyleph-DM-Acetamin-Guaifen,On Label,OTC,3.0,4.0,2.0
+974,fever,Doxylamine-DM-Acetaminophen,On Label,OTC,5.0,5.0,4.5
+975,fever,Aspirin,On Label,OTC,4.0,5.0,4.0
+976,fever,"Aspirin, Buffered",On Label,OTC,4.0,4.5,5.0
+977,fever,Aspirin,On Label,OTC,1.0,4.0,1.0
+978,fever,Phenyltoloxamine-Acetaminophen,On Label,RX,3.0,3.5,3.0
+979,fever,Ibuprofen,On Label,RX,4.5,4.5,4.0
+980,fever,Pseudoephedrine-Ibuprofen,On Label,OTC,2.0,4.0,1.0
+981,fever,Aspirin,On Label,OTC,4.5,4.5,4.5
+982,fever,Naproxen-Pseudoephedrine,On Label,OTC,4.33,4.33,4.33
+983,fever,Naproxen-Pseudoephedrine,On Label,OTC,4.0,4.0,4.0
+984,fever,Naproxen-Pseudoephedrine,On Label,OTC,5.0,5.0,5.0
+985,fever,Pseudoephed-DM-Acetaminophen,On Label,OTC,3.5,4.5,3.5
+986,fever,Phenyltoloxamine-Acetaminophen,On Label,RX,3.5,4.0,3.5
+987,fever,"Pseudoephed-DM-Acetaminophen, Cpm-Pseudoeph-DM-Acetaminophen",On Label,OTC,5.0,5.0,5.0
+989,fever,Chlorpheniram-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+990,fever,Doxylamine-DM-Acetaminophen,On Label,OTC,1.0,5.0,1.0
+991,fever,Naproxen Sodium,On Label,OTC,3.5,4.0,3.0
+992,fever,Cpm-Pseudoeph-DM-Acetaminophen,On Label,OTC,4.0,4.5,4.5
+993,fever,Pseudoeph-DM-GG-Acetaminophen,On Label,RX,3.5,4.0,2.0
+994,fever,Phenyltoloxamine-Acetaminophen,On Label,RX/OTC,4.0,5.0,4.0
+995,fever,Acetaminophen,On Label,OTC,5.0,5.0,3.0
+996,fever,Acetaminophen,On Label,OTC,5.0,5.0,5.0
+997,fever,Doxylamine-DM-Acetaminophen,On Label,OTC,1.0,4.33,1.0
+998,fever,Doxylamine-DM-Acetaminophen,On Label,OTC,2.0,1.0,1.0
+999,fever,Ibuprofen,On Label,OTC,4.0,4.5,4.0
+1000,fever,"Aspirin, Buffered",On Label,OTC,5.0,5.0,5.0
+1001,fever,"Aspirin, Buffered",On Label,OTC,3.0,4.0,3.0
+1002,fever,Acetaminophen,On Label,OTC,4.0,5.0,4.0
+1005,fever,"Acetaminophen-Pamabrom, Ibuprofen",On Label,OTC,5.0,5.0,5.0
+1006,fever,Cpm-PPA-DM-Acetaminophen,On Label,OTC,4.0,5.0,4.5
+1007,fever,Ibuprofen,On Label,OTC,5.0,5.0,5.0
+1008,fever,Acetaminophen,On Label,OTC,4.0,4.0,4.0
+1011,fever,Pseudoeph-DM-GG-Acetaminophen,On Label,OTC,1.0,1.0,1.0
+1012,fever,ASA-Acetaminophen-Salicyl-Caff,On Label,OTC,1.0,1.0,1.0
+1013,fever,Naproxen Sodium,On Label,OTC,4.0,5.0,5.0
+1014,fever,"Doxylamin-PSE-DM-Acetaminophen, Chlorphen-PE-DM-Acetaminophen",On Label,OTC,3.0,4.0,4.0
+1015,fever,Phenyltoloxamine-Acetaminophen,On Label,OTC,2.0,4.0,1.5
+1016,fever,Acetaminophen,On Label,OTC,1.0,1.0,1.0
+1017,fever,Acetaminophen,On Label,OTC,3.0,4.0,1.0
+1018,fever,Phenylephrine-DM-Acetaminophen,On Label,OTC,4.0,5.0,4.0
+1019,fever,Acetaminophen,On Label,OTC,1.0,1.0,2.0
+1020,fever,Aspirin,On Label,OTC,1.0,1.0,1.0
+1021,fever,Phenyleph-DM-Acetamin-Guaifen,On Label,OTC,4.5,4.5,5.0
+1022,fever,"Cpm-PPA-DM-Acetaminophen, Acetaminophen",On Label,OTC,5.0,5.0,2.0
+1023,fever,Phenyltoloxamine-Acetaminophen,On Label,RX,4.0,5.0,4.0
+1024,fever,Ibuprofen,On Label,OTC,4.0,4.0,5.0
+1025,fever,Ibuprofen,On Label,OTC,3.5,4.5,2.5
+1026,fever,Aspirin,On Label,OTC,2.5,4.0,2.0
+1027,fever,Doxylamine-DM-Acetaminophen,On Label,OTC,1.0,1.0,1.0
+1028,fever,Cpm-Pseudoeph-DM-Acetaminophen,On Label,OTC,5.0,5.0,4.0
+1029,fever,Acetaminophen,On Label,OTC,1.5,3.0,1.5
+1030,fever,"Choline,Magnesium Salicylate",On Label,RX,5.0,5.0,5.0
+1032,fever,Naproxen-Pseudoephedrine,On Label,OTC,5.0,5.0,5.0
+1033,fever,Phenyltoloxamine-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+1034,fever,Acetaminophen,On Label,OTC,5.0,1.0,1.0
+1036,fever,Aspirin,On Label,OTC,2.0,2.5,1.5
+1037,fever,Acetaminophen,On Label,OTC,3.0,4.0,2.0
+1038,fever,Doxylamine-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+1039,fever,Acetaminophen,On Label,OTC,5.0,5.0,5.0
+1040,fever,Phenyleph-DM-Acetamin-Guaifen,On Label,OTC,2.5,4.0,2.0
+1041,fever,Acetaminophen,On Label,OTC,2.0,4.0,3.0
+1043,fever,Doxylamine-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+1044,fever,Doxylamin-PSE-DM-Acetaminophen,On Label,OTC,4.5,4.5,4.5
+1045,fever,Pseudoephed-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+1046,fever,Pseudoephedrine-Ibuprofen,On Label,OTC,2.0,2.0,2.0
+1047,fever,Pseudoephedrine-Ibuprofen,On Label,OTC,4.0,5.0,5.0
+1048,fever,Acetaminophen-DM,On Label,OTC,1.0,1.0,1.0
+1049,fever,Aspirin-Acetaminophen-Caffeine,On Label,OTC,5.0,5.0,4.0
+1051,fever,Aspirin,On Label,OTC,3.0,5.0,3.0
+1052,fever,"Aspirin, Buffered",On Label,OTC,5.0,5.0,5.0
+1053,fever,"Aspirin, Buffered",On Label,OTC,3.0,4.0,4.0
+1054,fever,Ibuprofen,On Label,OTC,3.0,5.0,3.0
+1056,fever,Phenyltoloxamine-Acetaminophen,On Label,OTC,2.0,5.0,3.0
+1057,fever,"Dextromethorphan-Guaifenesin, Guaifenesin, Cpm-Pseudoeph-DM-Acetaminophen",On Label,OTC,2.0,2.0,1.0
+1061,fever,Acetaminophen-DM,On Label,OTC,5.0,5.0,5.0
+1062,fever,Acetaminophen,On Label,OTC,4.0,2.0,4.0
+1063,fever,Ibuprofen,On Label,OTC,1.0,1.0,1.0
+1064,fever,Aspirin,On Label,OTC,5.0,5.0,5.0
+1065,fever,Acetaminophen,On Label,OTC,5.0,5.0,5.0
+1066,fever,"Pseudoephedrine-Ibuprofen, Ibuprofen",On Label,OTC,5.0,5.0,5.0
+1068,fever,Acetaminophen,On Label,OTC,5.0,4.0,5.0
+1069,fever,Ibuprofen,On Label,RX,5.0,5.0,5.0
+1072,fever,Naproxen-Pseudoephedrine,On Label,OTC,5.0,4.0,4.0
+1073,fever,Acetaminophen,On Label,OTC,1.0,1.0,1.0
+1074,fever,"Doxylamine-PE-DM-Acetaminophen, Diphenhydramine-PPA-ASA",On Label,OTC,4.0,5.0,5.0
+1075,fever,Phenyltoloxamine-Acetaminophen,On Label,RX,5.0,5.0,5.0
+1076,fever,Acetaminophen,On Label,OTC,3.0,3.0,5.0
+1077,fever,"Pseudoephedrine-Ibuprofen, Brompheniram-PSE-Acetaminophen",On Label,OTC,1.0,4.0,1.0
+1078,fever,ASA-Acetaminophen-Salicyl-Caff,On Label,OTC,1.0,1.0,1.0
+1079,fever,Ibuprofen,On Label,OTC,5.0,5.0,5.0
+1080,fever,Aspirin,On Label,OTC,4.0,5.0,5.0
+1082,fever,Pseudoephed-DM-Acetaminophen,On Label,OTC,3.0,5.0,3.0
+1083,fever,Pseudoephed-DM-Acetaminophen,On Label,OTC,4.0,5.0,3.0
+1085,fever,Chlorpheniramine-Acetaminophen,On Label,OTC,3.0,5.0,1.0
+1088,fever,Naproxen-Pseudoephedrine,On Label,OTC,4.0,4.0,2.0
+1089,fever,Phenyleph-DM-Acetamin-Guaifen,On Label,OTC,5.0,5.0,5.0
+1091,fever,Cpm-PPA-DM-Acetaminophen,On Label,OTC,4.0,4.0,4.0
+1095,fever,Acetaminophen,On Label,OTC,3.0,4.0,3.0
+1096,fever,Phenyltoloxamine-Acetaminophen,On Label,RX,5.0,5.0,3.0
+1097,fever,Cpm-Pseudoeph-DM-Acetaminophen,On Label,OTC,5.0,5.0,1.0
+1098,fever,Cpm-Pseudoeph-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+1100,fever,"Chlorphenir-Phenylephrn-Aspirn, Diphenhydramine-Acetaminophen, Cpm-Phenyleph-Acetaminophen, Cpm-Pseudoeph-DM-Acetaminophen",On Label,OTC,2.0,2.0,5.0
+1104,fever,Ibuprofen,On Label,OTC,4.0,3.0,3.0
+1105,fever,Indomethacin,Off Label,RX,1.0,4.0,1.0
+1106,fever,Doxylamine-DM-Acetaminophen,On Label,OTC,4.0,5.0,4.0
+1109,fever,Chlorpheniram-DM-Acetaminophen,On Label,OTC,3.0,5.0,2.0
+1110,fever,Pseudoeph-DM-GG-Acetaminophen,On Label,OTC,3.0,4.0,3.0
+1111,fever,Ibuprofen,On Label,OTC,4.0,4.0,4.0
+1114,fever,Acetaminophen,On Label,OTC,2.0,3.0,4.0
+1115,fever,Phenylephrine-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+1116,fever,Aspirin,On Label,OTC,1.0,1.0,1.0
+1117,fever,Aspirin,On Label,OTC,3.0,4.0,4.0
+1119,fever,Pseudoephed-DM-Acetaminophen,On Label,OTC,3.0,3.0,3.0
+1120,fever,Naproxen Sodium,On Label,OTC,4.0,3.0,4.0
+1122,fever,Phenyleph-DM-Acetamin-Guaifen,On Label,OTC,4.0,5.0,1.0
+1123,fever,Aspirin,On Label,RX,1.0,1.0,1.0
+1124,fever,Acetaminophen,On Label,OTC,4.0,5.0,5.0
+1126,fever,Acetaminophen,On Label,OTC,3.0,3.0,3.0
+1127,fever,Doxylamine-PE-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+1128,fever,Phenyleph-DM-Acetamin-Guaifen,On Label,OTC,4.0,5.0,4.0
+1130,fever,Phenyleph-DM-Acetamin-Guaifen,On Label,OTC,3.0,5.0,3.0
+1131,fever,Ibuprofen,On Label,RX,3.0,3.0,3.0
+1133,fever,Pseudoephed-DM-Acetaminophen,On Label,OTC,4.0,5.0,4.0
+1134,fever,"Aspirin, Buffered",On Label,OTC,1.0,1.0,1.0
+1136,fever,Ibuprofen,On Label,RX,4.0,5.0,2.0
+1139,fever,Pseudoephedrine-Ibuprofen,On Label,OTC,3.0,3.0,3.0
+1140,fever,Acetaminophen,On Label,OTC,4.0,4.0,4.0
+1141,fever,Aspirin,On Label,OTC,4.0,4.0,4.0
+1142,fever,Acetaminophen,On Label,OTC,1.0,3.0,1.0
+1144,fever,Aspirin-Calcium Carbonate,On Label,OTC,5.0,5.0,5.0
+1145,fever,Phenylephrine-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+1146,fever,Acetaminophen,On Label,OTC,1.0,5.0,1.0
+1149,fever,Phenylephrine-DM-Acetaminophen,On Label,OTC,5.0,5.0,3.0
+1151,fever,Phenyleph-DM-Acetamin-Guaifen,On Label,OTC,1.0,1.0,1.0
+1152,fever,Doxylamine-PE-DM-Acetaminophen,On Label,OTC,1.0,1.0,1.0
+1153,fever,"Pseudoeph-DM-GG-Acetaminophen, Cpm-Pseudoeph-DM-Acetaminophen",On Label,OTC,4.0,5.0,4.0
+1154,fever,"Pseudoeph-DM-GG-Acetaminophen, Chlorphen-PE-DM-Acetaminophen",On Label,OTC,3.0,3.0,4.0
+1156,fever,Indomethacin,Off Label,RX,3.0,5.0,4.0
+1157,fever,Phenyltoloxamine-Acetaminophen,On Label,RX,1.0,3.0,1.0
+1158,fever,Acetaminophen,On Label,OTC,4.0,3.0,5.0
+1159,fever,Chlorpheniramine-Acetaminophen,On Label,OTC,4.0,3.0,2.0
+1160,fever,"Aspirin-Acetaminophen-Caffeine, Aspirin, Phenyltoloxamine-Acetaminophen",On Label,OTC,2.0,2.0,2.0
+1165,fever,Phenylephrine-DM-Acetaminophen,On Label,OTC,3.0,5.0,3.0
+1166,fever,Doxylamin-PSE-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+1167,fever,Cpm-Pseudoeph-DM-Acetaminophen,On Label,OTC,3.0,5.0,5.0
+1169,fever,Doxylamine-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+1170,fever,Acetaminophen-DM,On Label,OTC,2.0,5.0,3.0
+1171,fever,"Pseudoeph-DM-GG-Acetaminophen, Cpm-Pseudoeph-DM-Acetaminophen",On Label,OTC,3.0,5.0,3.0
+1175,fever,Ibuprofen,On Label,OTC,4.0,3.0,4.0
+1176,fever,Doxylamine-PE-DM-Acetaminophen,On Label,OTC,4.0,5.0,3.0
+1177,fever,"Pseudoephed-DM-Acetaminophen, Phenylpropanolamine-GG, Chlorpheniramine-Pseudoephed",On Label,OTC,3.0,3.0,3.0
+1181,fever,Chlorpheniram-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+1182,fever,Doxylamine-PE-DM-Acetaminophen,On Label,OTC,5.0,4.0,4.0
+1184,fever,Phenylephrine-DM-Acetaminophen,On Label,OTC,4.0,5.0,4.0
+1185,fever,Doxylam-PE-DM-Acetaminophen-GG,On Label,OTC,4.0,5.0,5.0
+1186,fibromyalgia,Duloxetine,On Label,RX,3.41,4.13,3.08
+1187,fibromyalgia,Pregabalin,On Label,RX,3.38,4.07,3.0
+1188,fibromyalgia,Amitriptyline,Off Label,RX,3.53,4.29,3.15
+1189,fibromyalgia,Cyclobenzaprine,Off Label,RX,3.6,4.31,3.34
+1190,fibromyalgia,Paroxetine Hcl,Off Label,RX,3.72,4.23,3.23
+1191,fibromyalgia,Cyclobenzaprine,Off Label,RX,3.43,4.22,3.22
+1192,fibromyalgia,Mirtazapine,Off Label,RX,3.26,4.23,2.9
+1194,fibromyalgia,Amitriptyline,Off Label,RX,3.36,4.15,3.02
+1195,fibromyalgia,Pramipexole,Off Label,RX,3.96,4.27,3.71
+1196,fibromyalgia,Paroxetine Hcl,Off Label,RX,3.36,4.24,3.0
+1199,fibromyalgia,Cyclobenzaprine,Off Label,RX,3.12,4.18,2.97
+1200,fibromyalgia,Tramadol-Acetaminophen,Off Label,RX,3.32,4.4,3.13
+1201,fibromyalgia,Tramadol-Acetaminophen,Off Label,RX,3.07,4.07,2.9
+1202,fibromyalgia,Duloxetine,On Label,RX,3.51,3.85,3.21
+1204,fibromyalgia,Pramipexole,Off Label,RX,4.0,4.27,3.81
+1206,fibromyalgia,Amitriptyline,Off Label,RX,2.8,3.9,2.4
+1207,fibromyalgia,Mirtazapine,Off Label,RX,3.36,4.0,3.18
+1208,fibromyalgia,Pramipexole,Off Label,RX,4.43,4.43,4.0
+1209,fibromyalgia,Cyclobenzaprine,Off Label,RX,4.25,5.0,4.0
+1210,fibromyalgia,Milnacipran,On Label,RX,3.57,4.29,3.57
+1211,fibromyalgia,Duloxetine,On Label,RX,5.0,4.0,4.0
+1212,fibromyalgia,Amitriptyline,Off Label,RX,3.0,4.0,3.0
+1213,flatulence,Simethicone,On Label,OTC,3.68,4.46,3.46
+1216,flatulence,Simethicone,On Label,OTC,2.64,4.64,2.82
+1218,flatulence,Simethicone,On Label,OTC,4.25,4.56,4.0
+1221,flatulence,Alum-Mag Hydroxide-Simeth,On Label,OTC,3.0,4.0,2.0
+1222,flatulence,Simethicone,On Label,OTC,4.6,4.8,4.6
+1224,flatulence,"Aluminum-Magnesium Hydroxide, Calcium Carbonate-Mag Hydroxid, Calcium And Magnesium Carbonat, Calcium Carbonate, Alum-Mag Hydroxide-Simeth",On Label,OTC,4.5,4.67,4.33
+1226,flatulence,Calcium Carbonate-Simethicone,On Label,OTC,5.0,5.0,5.0
+1227,flatulence,"Aluminum-Magnesium Hydroxide, Calcium Carbonate, Alum-Mag Hydroxide-Simeth",On Label,OTC,5.0,5.0,5.0
+1230,flatulence,Calcium Carbonate-Simethicone,On Label,OTC,5.0,5.0,5.0
+1231,flatulence,Simethicone,On Label,OTC,4.67,5.0,4.67
+1232,flatulence,Alum-Mag Hydroxide-Simeth,On Label,OTC,4.0,4.0,4.5
+1233,flatulence,Simethicone,On Label,OTC,2.0,4.0,2.0
+1234,flatulence,"Calcium Carbonate-Mag Hydroxid, Alum-Mag Hydroxide-Simeth",On Label,OTC,3.0,5.0,4.0
+1235,flatulence,Alum-Mag Hydroxide-Simeth,On Label,OTC,5.0,4.0,2.0
+1237,flatulence,"Calcium Carb-Mag Hydrox-Simeth, Alum-Mag Hydroxide-Simeth",On Label,OTC,5.0,5.0,5.0
+1238,flatulence,Alum-Mag Hydroxide-Simeth,On Label,OTC,3.0,5.0,3.0
+1239,flatulence,Alum-Mag Hydroxide-Simeth,On Label,OTC,5.0,5.0,5.0
+1240,flatulence,"Alum-Mag Hydroxide-Simeth, Calcium Carbonate-Simethicone",On Label,OTC,5.0,5.0,5.0
+1242,flatulence,Simethicone,On Label,OTC,2.0,4.5,2.5
+1243,flatulence,Simethicone,On Label,OTC,3.0,3.0,3.0
+1244,flatulence,Simethicone,On Label,OTC,4.5,5.0,4.0
+1245,flatulence,Alum-Mag Hydroxide-Simeth,On Label,OTC,5.0,1.0,5.0
+1246,flatulence,Alum-Mag Hydroxide-Simeth,On Label,OTC,4.0,5.0,4.0
+1247,flatulence,Alum-Mag Hydroxide-Simeth,On Label,OTC,5.0,5.0,5.0
+1248,flatulence,"Aluminum-Magnesium Hydroxide, Aluminum Hydrox-Magnesium Carb, Dihydroxyaluminum Sod Carb, Alum-Mag Hydroxide-Simeth",On Label,OTC,3.0,5.0,3.0
+1250,flatulence,Alum-Mag Hydroxide-Simeth,On Label,OTC,4.0,3.0,4.0
+1251,flatulence,Simethicone,On Label,OTC,4.0,5.0,4.0
+1252,flatulence,Simethicone,On Label,OTC,1.0,1.0,1.0
+1253,flatulence,Simethicone,On Label,OTC,5.0,5.0,5.0
+1257,flatulence,Calcium Carbonate-Simethicone,On Label,OTC,5.0,5.0,5.0
+1260,flatulence,Alum-Mag Hydroxide-Simeth,On Label,OTC,1.0,1.0,1.0
+1261,flatulence,Simethicone,On Label,OTC,4.0,5.0,5.0
+1263,flatulence,"Al Hyd-Mg Tr-Alg Ac-Sod Bicarb, Magaldrate, Aluminum-Magnesium Hydroxide, Calcium Carbonate-Mag Hydroxid, Aluminum Hydrox-Magnesium Carb, Calcium And Magnesium Carbonat, Aluminum-Magnesium-Alginate, Calcium Carbonate, Dihydroxyaluminum Sod Carb, Alum-Mag Hydroxide-Simeth",On Label,OTC,5.0,5.0,5.0
+1266,flatulence,Calcium Carbonate-Mag Hydroxid,On Label,OTC,4.0,4.0,5.0
+1267,flatulence,Simethicone,On Label,OTC,4.0,2.0,3.0
+1268,flatulence,Simethicone,On Label,OTC,4.0,4.0,4.0
+1269,flatulence,Alum-Mag Hydroxide-Simeth,On Label,OTC,2.0,1.0,3.0
+1273,flatulence,"Simethicone, Alpha-D-Galactosidase",On Label,OTC,3.0,5.0,3.0
+1276,flatulence,"Activated Charcoal-Simethicone, Simethicone",On Label,OTC,1.0,1.0,1.0
+1278,flatulence,Alum-Mag Hydroxide-Simeth,On Label,OTC,5.0,4.0,2.0
+1280,flatulence,Simethicone,On Label,OTC,1.0,5.0,1.0
+1281,flatulence,"Aluminum-Magnesium-Alginate, Alum-Mag Hydroxide-Simeth",On Label,OTC,1.0,5.0,1.0
+1282,flatulence,"Aluminum-Magnesium Hydroxide, Alum-Mag Hydroxide-Simeth",On Label,OTC,4.0,4.0,4.0
+1284,flatulence,Simethicone,On Label,OTC,3.0,5.0,3.0
+1287,flatulence,Simethicone,On Label,OTC,3.0,5.0,4.0
+1289,furunculosis,"Mupirocin Calcium, Mupirocin",Off Label,RX,3.86,4.55,3.79
+1291,furunculosis,Mupirocin,Off Label,RX,3.91,4.36,3.09
+1292,furunculosis,Mupirocin,Off Label,RX,5.0,5.0,5.0
+1293,furunculosis,Gentamicin,On Label,RX,4.5,5.0,4.5
+1294,furunculosis,Gentamicin,On Label,RX,3.0,5.0,3.0
+1295,furunculosis,Mupirocin,Off Label,RX,1.0,4.0,1.0
+1296,gastroesophageal reflux disease,Omeprazole,On Label,RX/OTC,3.78,4.18,3.22
+1298,gastroesophageal reflux disease,Dexlansoprazole,On Label,RX,3.82,4.31,2.87
+1299,gastroesophageal reflux disease,Metoclopramide Hcl,On Label,RX,2.77,3.38,2.06
+1300,gastroesophageal reflux disease,Pantoprazole,Off Label,RX,3.91,4.34,3.62
+1301,gastroesophageal reflux disease,Rabeprazole,On Label,RX,4.12,4.58,3.93
+1302,gastroesophageal reflux disease,"Omeprazole, Omeprazole Magnesium",On Label,RX,4.07,4.53,3.4
+1304,gastroesophageal reflux disease,Pantoprazole,Off Label,RX,3.32,4.2,2.99
+1305,gastroesophageal reflux disease,Omeprazole Magnesium,On Label,OTC,4.01,4.4,3.16
+1306,gastroesophageal reflux disease,Lansoprazole,On Label,RX,4.3,4.65,4.08
+1307,gastroesophageal reflux disease,Omeprazole-Sodium Bicarbonate,On Label,RX,4.05,4.37,3.47
+1308,gastroesophageal reflux disease,Sucralfate,Off Label,RX,3.83,3.6,3.57
+1310,gastroesophageal reflux disease,Ranitidine Hcl,On Label,RX/OTC,4.07,4.51,3.74
+1315,gastroesophageal reflux disease,Dexlansoprazole,On Label,RX,3.83,4.47,3.38
+1316,gastroesophageal reflux disease,Metoclopramide Hcl,On Label,RX,3.3,3.74,3.17
+1317,gastroesophageal reflux disease,Sucralfate,Off Label,RX,4.14,3.54,3.89
+1319,gastroesophageal reflux disease,Ranitidine Hcl,On Label,RX/OTC,4.33,4.42,4.17
+1322,gastroesophageal reflux disease,Erythromycin,Off Label,RX,2.11,2.79,1.32
+1324,gastroesophageal reflux disease,Magnesium Oxide,Off Label,RX/OTC,3.37,3.83,3.27
+1325,gastroesophageal reflux disease,Lansoprazole,On Label,RX/OTC,2.91,4.05,2.5
+1327,gastroesophageal reflux disease,Famotidine,On Label,RX/OTC,3.2,4.5,3.0
+1330,gastroesophageal reflux disease,Omeprazole Magnesium,On Label,RX/OTC,3.77,4.23,3.54
+1333,gastroesophageal reflux disease,Esomeprazole Magnesium,On Label,RX/OTC,3.54,4.23,2.92
+1336,gastroesophageal reflux disease,Rabeprazole,On Label,RX,3.78,4.44,3.67
+1337,gastroesophageal reflux disease,Lansoprazole,On Label,OTC,4.63,5.0,4.0
+1338,gastroesophageal reflux disease,Omeprazole-Sodium Bicarbonate,On Label,OTC,3.55,4.27,3.55
+1339,gastroesophageal reflux disease,Famotidine,On Label,RX,3.86,4.29,3.29
+1341,gastroesophageal reflux disease,Famotidine-Ca Carb-Mag Hydrox,On Label,OTC,4.78,4.67,4.44
+1342,gastroesophageal reflux disease,Famotidine,On Label,OTC,4.5,4.75,4.5
+1344,gastroesophageal reflux disease,Erythromycin,Off Label,RX,3.8,4.0,3.4
+1345,gastroesophageal reflux disease,"Al Hyd-Mg Tr-Alg Ac-Sod Bicarb, Aluminum Hydrox-Magnesium Carb, Aluminum-Magnesium-Alginate, Calcium Carbonate",Off Label,OTC,4.75,4.75,3.75
+1347,gastroesophageal reflux disease,Aluminum Hydrox-Magnesium Carb,Off Label,OTC,4.88,4.75,4.88
+1348,gastroesophageal reflux disease,Cimetidine,On Label,OTC,4.5,5.0,4.5
+1349,gastroesophageal reflux disease,Erythromycin Stearate,Off Label,RX,3.0,2.8,2.2
+1350,gastroesophageal reflux disease,Erythromycin Ethylsuccinate,Off Label,RX,3.25,2.75,3.0
+1351,gastroesophageal reflux disease,Lansoprazole,On Label,RX,4.33,5.0,4.67
+1352,gastroesophageal reflux disease,Omeprazole-Sodium Bicarbonate,On Label,RX/OTC,4.63,4.88,4.38
+1353,gastroesophageal reflux disease,Dexlansoprazole,On Label,RX,4.43,4.86,4.0
+1354,gastroesophageal reflux disease,Ranitidine Hcl,On Label,OTC,4.33,4.33,4.33
+1355,gastroesophageal reflux disease,Nizatidine,On Label,RX,5.0,5.0,5.0
+1356,gastroesophageal reflux disease,Ranitidine Hcl,On Label,RX,4.2,5.0,3.8
+1357,gastroesophageal reflux disease,Esomeprazole Magnesium,On Label,RX,4.33,4.67,3.67
+1358,gastroesophageal reflux disease,"Aluminum-Magnesium Hydroxide, Calcium Carbonate-Mag Hydroxid, Calcium And Magnesium Carbonat, Calcium Carbonate, Alum-Mag Hydroxide-Simeth",Off Label,OTC,4.5,4.67,4.33
+1360,gastroesophageal reflux disease,Magnesium Hydroxide,On Label,OTC,4.0,5.0,4.25
+1361,gastroesophageal reflux disease,Metoclopramide Hcl,On Label,RX,4.0,4.67,3.33
+1362,gastroesophageal reflux disease,"Calcium Carbonate-Mag Hydroxid, Dihydroxyaluminum Sod Carb",Off Label,OTC,4.33,5.0,4.67
+1363,gastroesophageal reflux disease,"Aluminum-Magnesium Hydroxide, Calcium Carbonate, Alum-Mag Hydroxide-Simeth",Off Label,OTC,5.0,5.0,5.0
+1366,gastroesophageal reflux disease,Magnesium Hydroxide,On Label,OTC,4.5,4.5,4.5
+1367,gastroesophageal reflux disease,Esomeprazole Magnesium,On Label,OTC,3.33,3.67,3.0
+1369,gastroesophageal reflux disease,Ranitidine Hcl,On Label,OTC,5.0,5.0,5.0
+1371,gastroesophageal reflux disease,Metoclopramide Hcl,On Label,RX,3.67,4.67,3.33
+1372,gastroesophageal reflux disease,Pantoprazole,On Label,RX,5.0,5.0,5.0
+1373,gastroesophageal reflux disease,Ranitidine Hcl,On Label,RX,3.0,3.0,2.5
+1374,gastroesophageal reflux disease,Erythromycin Stearate,Off Label,RX,5.0,4.0,5.0
+1375,gastroesophageal reflux disease,Famotidine,On Label,OTC,5.0,5.0,5.0
+1377,gastroesophageal reflux disease,Ranitidine Hcl,On Label,OTC,3.0,4.0,3.0
+1379,gastroesophageal reflux disease,Nizatidine,On Label,RX,3.0,4.0,3.0
+1380,gastroesophageal reflux disease,Erythromycin Ethylsuccinate,Off Label,RX,1.0,1.0,1.0
+1381,gastroesophageal reflux disease,Pantoprazole,On Label,RX,5.0,5.0,5.0
+1382,gastroesophageal reflux disease,Famotidine,On Label,OTC,5.0,5.0,5.0
+1384,gastroesophageal reflux disease,Famotidine-Ca Carb-Mag Hydrox,On Label,OTC,5.0,5.0,5.0
+1385,gastroesophageal reflux disease,Alum-Mag Hydroxide-Simeth,Off Label,OTC,5.0,4.0,2.0
+1387,gastroesophageal reflux disease,Aluminum Hydroxide Gel,Off Label,OTC,5.0,5.0,5.0
+1388,gastroesophageal reflux disease,Magnesium Hydroxide,On Label,OTC,4.0,4.0,4.0
+1389,gastroesophageal reflux disease,Esomeprazole Strontium,On Label,RX,3.0,3.0,3.0
+1390,gastroesophageal reflux disease,Famotidine-Ca Carb-Mag Hydrox,On Label,OTC,4.0,4.0,4.0
+1391,gastroesophageal reflux disease,Ranitidine Hcl,On Label,RX,2.0,4.0,1.5
+1392,gastroesophageal reflux disease,Erythromycin Ethylsuccinate,Off Label,RX,4.0,4.0,4.0
+1394,gastroesophageal reflux disease,Ranitidine Hcl,On Label,OTC,1.0,3.0,1.0
+1395,gastroesophageal reflux disease,Erythromycin,Off Label,RX,5.0,2.0,4.0
+1396,gastroesophageal reflux disease,Famotidine-Ca Carb-Mag Hydrox,On Label,OTC,2.0,5.0,2.0
+1397,gastroesophageal reflux disease,Al Hyd-Mg Tr-Alg Ac-Sod Bicarb,Off Label,OTC,3.0,3.0,1.0
+1398,gastroesophageal reflux disease,Aluminum Hydroxide Gel,Off Label,OTC,5.0,5.0,5.0
+1399,gastroesophageal reflux disease,"Al Hyd-Mg Tr-Alg Ac-Sod Bicarb, Aluminum Hydrox-Magnesium Carb, Aluminum-Magnesium-Alginate",Off Label,OTC,2.0,2.0,2.0
+1400,gastroesophageal reflux disease,Aluminum Hydrox-Magnesium Carb,Off Label,OTC,1.0,1.0,1.0
+1401,gastroesophageal reflux disease,"Al Hyd-Mg Tr-Alg Ac-Sod Bicarb, Magaldrate, Aluminum-Magnesium Hydroxide, Calcium Carbonate-Mag Hydroxid, Aluminum Hydrox-Magnesium Carb, Calcium And Magnesium Carbonat, Aluminum-Magnesium-Alginate, Calcium Carbonate, Dihydroxyaluminum Sod Carb, Alum-Mag Hydroxide-Simeth",Off Label,OTC,5.0,5.0,5.0
+1404,gastroesophageal reflux disease,Magaldrate,Off Label,OTC,5.0,5.0,5.0
+1405,gastroesophageal reflux disease,Erythromycin Stearate,Off Label,RX,4.0,4.0,4.0
+1406,gastroesophageal reflux disease,Famotidine,On Label,OTC,3.0,5.0,3.0
+1408,gastroesophageal reflux disease,"Aluminum-Magnesium Hydroxide, Aluminum Hydrox-Magnesium Carb, Dihydroxyaluminum Sod Carb, Alum-Mag Hydroxide-Simeth",Off Label,OTC,3.0,5.0,3.0
+1410,gastroesophageal reflux disease,Magnesium Hydroxide,Off Label,OTC,4.0,4.0,4.0
+1411,gastroesophageal reflux disease,Al Hyd-Mg Tr-Alg Ac-Sod Bicarb,Off Label,OTC,1.0,1.0,1.0
+1413,gastroesophageal reflux disease,Cimetidine Hcl,On Label,RX,5.0,5.0,5.0
+1414,gastroesophageal reflux disease,Lansoprazole,On Label,OTC,5.0,5.0,5.0
+1415,gastroesophageal reflux disease,"Aluminum-Magnesium Hydroxide, Alum-Mag Hydroxide-Simeth",Off Label,OTC,4.0,4.0,4.0
+1417,gastroesophageal reflux disease,Aluminum-Magnesium Hydroxide,Off Label,OTC,1.0,5.0,1.0
+1418,gastroesophageal reflux disease,Erythromycin Ethylsuccinate,Off Label,RX,5.0,4.0,5.0
+1419,gastroesophageal reflux disease,"Aluminum-Magnesium-Alginate, Alum-Mag Hydroxide-Simeth",Off Label,OTC,1.0,5.0,1.0
+1420,gastroesophageal reflux disease,"Calcium Carbonate-Mag Hydroxid, Calcium Carbonate, Dihydroxyaluminum Sod Carb",Off Label,OTC,1.0,1.0,1.0
+1421,gastroesophageal reflux disease,Erythromycin Ethylsuccinate,Off Label,RX,1.0,1.0,1.0
+1422,gastroesophageal reflux disease,Erythromycin Ethylsuccinate,Off Label,RX,3.0,3.0,3.0
+1423,gastroesophageal reflux disease,Ranitidine Hcl,On Label,OTC,4.0,5.0,3.0
+1425,gastroesophageal reflux disease,Ranitidine Hcl,On Label,RX,2.0,5.0,2.0
+1427,genital herpes simplex,Valacyclovir,On Label,RX,4.29,4.6,4.15
+1428,genital herpes simplex,Valacyclovir,On Label,RX,3.96,4.16,3.61
+1429,genital herpes simplex,Acyclovir,On Label,RX,4.25,3.5,3.75
+1430,genital herpes simplex,Acyclovir,On Label,RX,3.17,4.09,3.17
+1432,genital herpes simplex,Acyclovir-Hydrocortisone,Off Label,RX,4.57,4.79,4.43
+1433,genital herpes simplex,Acyclovir Sodium,On Label,RX,2.0,3.0,1.67
+1434,genital herpes simplex,Acyclovir,On Label,RX,3.67,4.0,4.0
+1436,genital herpes simplex,Acyclovir Sodium,On Label,RX,5.0,4.5,5.0
+1437,genital herpes simplex,Acyclovir-Hydrocortisone,Off Label,RX,1.0,1.0,1.0
+1438,gout,Meloxicam,Off Label,RX,3.44,4.26,3.15
+1439,gout,Celecoxib,Off Label,RX,3.85,4.47,3.46
+1440,gout,Naproxen,On Label,RX,2.82,3.7,2.42
+1443,gout,Meloxicam,Off Label,RX,3.4,4.13,3.09
+1444,gout,Diclofenac Sodium,Off Label,RX,3.67,4.19,3.33
+1446,gout,Indomethacin,On Label,RX,3.97,4.25,3.67
+1449,gout,Ibuprofen,Off Label,RX/OTC,3.37,3.98,3.13
+1453,gout,Diclofenac Sodium,Off Label,RX,3.9,4.31,3.61
+1454,gout,Etodolac,Off Label,RX,2.89,3.83,2.81
+1456,gout,Naproxen Sodium,Off Label,OTC,3.5,4.24,3.13
+1457,gout,Diclofenac-Misoprostol,Off Label,RX,3.84,4.01,3.35
+1458,gout,Piroxicam,Off Label,RX,3.45,4.07,3.25
+1459,gout,Naproxen Sodium,On Label,RX/OTC,3.12,4.23,2.73
+1461,gout,Diclofenac-Misoprostol,Off Label,RX,4.52,4.64,4.05
+1462,gout,Diclofenac Potassium,Off Label,RX,3.95,4.45,3.7
+1464,gout,Indomethacin,On Label,RX,4.22,4.41,4.06
+1467,gout,Naproxen,On Label,RX,3.27,3.64,2.91
+1469,gout,Oxaprozin,Off Label,RX,3.44,4.12,3.32
+1470,gout,Mefenamic Acid,Off Label,RX,3.86,4.47,3.88
+1471,gout,Diclofenac Potassium,Off Label,RX,3.71,4.25,3.46
+1472,gout,Oxaprozin,Off Label,RX,3.36,4.24,3.08
+1473,gout,Piroxicam,Off Label,RX,4.32,4.2,3.72
+1474,gout,Ibuprofen-Famotidine,Off Label,RX,4.18,4.27,4.05
+1475,gout,Diclofenac Sodium,Off Label,RX,4.09,4.04,3.87
+1476,gout,Celecoxib,Off Label,RX,3.0,3.5,2.85
+1477,gout,Diclofenac Potassium,Off Label,RX,3.73,4.47,3.6
+1478,gout,Ibuprofen,Off Label,RX/OTC,3.64,4.18,3.64
+1482,gout,Ketoprofen,Off Label,RX,4.5,4.17,4.5
+1484,gout,Ibuprofen,Off Label,OTC,4.2,4.4,4.2
+1486,gout,Diclofenac-Misoprostol,Off Label,RX,3.85,4.15,3.08
+1487,gout,Ibuprofen,Off Label,OTC,4.21,4.79,4.0
+1488,gout,Diflunisal,Off Label,RX,3.13,4.0,2.38
+1489,gout,Naproxen Sodium,Off Label,RX,3.0,3.86,3.0
+1490,gout,Fenoprofen,Off Label,RX,4.33,4.83,4.33
+1491,gout,Ibuprofen,Off Label,OTC,4.75,5.0,4.75
+1492,gout,Mefenamic Acid,Off Label,RX,3.44,4.22,3.44
+1493,gout,Etodolac,Off Label,RX,4.0,4.88,4.13
+1494,gout,Diflunisal,Off Label,RX,4.67,4.67,4.67
+1495,gout,Ibuprofen,Off Label,OTC,4.0,4.4,4.2
+1496,gout,Meclofenamate,Off Label,RX,3.86,4.43,3.86
+1497,gout,Flurbiprofen,Off Label,RX,4.5,4.33,3.83
+1498,gout,Indomethacin,On Label,RX,4.4,4.6,4.2
+1499,gout,Naproxen Sodium,On Label,RX,3.33,3.67,3.0
+1500,gout,Ketoprofen,Off Label,RX,3.0,3.5,3.0
+1501,gout,Naproxen Sodium,Off Label,RX,4.33,4.33,4.33
+1502,gout,Naproxen Sodium,Off Label,OTC,4.0,5.0,5.0
+1503,gout,Ketoprofen,Off Label,RX,5.0,5.0,5.0
+1504,gout,Naproxen Sodium,On Label,RX,4.0,5.0,4.0
+1505,gout,Flurbiprofen,Off Label,RX,5.0,5.0,5.0
+1506,gout,Tolmetin,Off Label,RX,5.0,4.5,5.0
+1507,gout,Ibuprofen,Off Label,OTC,4.0,4.67,4.33
+1510,gout,Tolmetin,Off Label,RX,3.0,3.5,3.0
+1511,gout,Ibuprofen,Off Label,OTC,2.5,3.0,1.0
+1513,gout,Ketoprofen,Off Label,OTC,5.0,5.0,5.0
+1514,gout,Ibuprofen,Off Label,RX,4.5,4.5,4.0
+1515,gout,Naproxen Sodium,Off Label,OTC,3.5,4.0,3.0
+1516,gout,Ibuprofen,Off Label,OTC,4.0,4.5,4.0
+1517,gout,Fenoprofen,Off Label,RX,3.0,5.0,2.0
+1518,gout,Meclofenamate,Off Label,RX,5.0,5.0,5.0
+1519,gout,Naproxen Sodium,Off Label,OTC,4.0,5.0,5.0
+1520,gout,Ibuprofen,Off Label,OTC,5.0,5.0,5.0
+1521,gout,"Acetaminophen-Pamabrom, Ibuprofen",Off Label,OTC,5.0,5.0,5.0
+1522,gout,Ibuprofen,Off Label,OTC,3.5,4.5,2.5
+1523,gout,Ibuprofen,Off Label,OTC,4.0,4.0,5.0
+1524,gout,Ketoprofen,Off Label,OTC,4.0,4.0,4.0
+1525,gout,Ibuprofen,Off Label,OTC,3.0,5.0,3.0
+1526,gout,Ibuprofen,Off Label,RX,5.0,5.0,5.0
+1527,gout,Tolmetin,Off Label,RX,1.0,1.0,1.0
+1528,gout,"Pseudoephedrine-Ibuprofen, Ibuprofen",Off Label,OTC,5.0,5.0,5.0
+1530,gout,Ibuprofen,Off Label,OTC,5.0,5.0,5.0
+1531,gout,Ibuprofen,Off Label,OTC,4.0,3.0,3.0
+1532,gout,Indomethacin,On Label,RX,1.0,4.0,1.0
+1533,gout,Ibuprofen,Off Label,OTC,4.0,4.0,4.0
+1536,gout,Naproxen,Off Label,RX,1.0,5.0,1.0
+1537,gout,Naproxen Sodium,Off Label,OTC,4.0,3.0,4.0
+1538,gout,Ibuprofen-Famotidine,Off Label,RX,5.0,5.0,5.0
+1539,gout,Ibuprofen,Off Label,RX,4.0,5.0,2.0
+1541,gout,Indomethacin,On Label,RX,3.0,5.0,4.0
+1542,gout,Ibuprofen,Off Label,RX,3.0,3.0,3.0
+1543,gout,Fenoprofen,Off Label,RX,3.0,4.0,4.0
+1544,gout,Naproxen Sodium,Off Label,RX,5.0,5.0,5.0
+1547,gout,Ibuprofen,Off Label,OTC,4.0,3.0,4.0
+1548,hemorrhoids,Hydrocortisone Acetate,On Label,RX,3.66,3.89,3.29
+1549,hemorrhoids,Hydrocortisone,Off Label,RX/OTC,4.2,4.2,4.0
+1551,hemorrhoids,Hydrocortisone Acetate,On Label,RX,2.67,3.27,2.6
+1554,hemorrhoids,Lidocaine,On Label,RX/OTC,3.31,3.75,3.25
+1557,hemorrhoids,"Phenyleph-Shark Oil-Glyc-Pet, Phenyleph-Min Oil-Petrolatum, Cocoa Butter-Shark Liver Oil",On Label,OTC,2.75,3.56,2.63
+1559,hemorrhoids,Lidocaine,On Label,OTC,4.4,4.8,4.4
+1560,hemorrhoids,"Hydrocortisone Acetate, Hydrocortison-Resor-Bismth-Zno, Hydrocortisone",On Label,RX,4.0,4.0,3.2
+1562,hemorrhoids,"Bismuth Subg-Balsam-Znox-Resor, Starch, Pramoxine-Mineral Oil-Zinc",On Label,OTC,3.5,3.5,3.75
+1563,hemorrhoids,"Pramoxine-Calamine-Camphor, Pramoxine-Calamine",On Label,OTC,5.0,5.0,5.0
+1564,hemorrhoids,Phenylephrine-Witch Hazel,On Label,OTC,2.86,4.0,2.0
+1565,hemorrhoids,Pramoxine,On Label,OTC,2.67,2.67,2.33
+1566,hemorrhoids,"Cocoa Butter-Zinc Oxide, Zinc Oxide",On Label,OTC,3.33,4.67,3.33
+1567,hemorrhoids,Phenyleph-Pramoxin-Glycr-W.Pet,On Label,OTC,2.2,3.2,1.8
+1568,hemorrhoids,Hydrocortisone,Off Label,RX,3.75,4.0,3.5
+1570,hemorrhoids,Hydrocortisone Acetate,Off Label,OTC,2.4,3.6,2.4
+1571,hemorrhoids,Phenylephrine Hcl,On Label,OTC,3.0,3.0,1.0
+1572,hemorrhoids,Pramoxine-Zinc Oxide,On Label,OTC,5.0,5.0,5.0
+1573,hemorrhoids,Hydrocortisone,Off Label,RX,4.0,3.0,3.0
+1574,hemorrhoids,"Hydrocortisone Acetate, Bismuth Subg-Balsam-Znox-Resor",On Label,RX/OTC,1.0,1.0,1.0
+1575,hemorrhoids,Hydrocortisone Acetate,On Label,RX,3.0,4.0,2.0
+1576,hemorrhoids,Lidocaine-Hydrocortisone-Aloe,On Label,RX,5.0,4.0,5.0
+1577,hemorrhoids,"Starch, Pramoxine-Mineral Oil-Zinc",On Label,OTC,5.0,5.0,5.0
+1578,hemorrhoids,"Phenylephrine Hcl, Bismuth Subg-Balsam-Znox-Resor",On Label,OTC,4.0,2.5,3.5
+1580,hemorrhoids,Phenylephrine-Cocoa Butter,On Label,OTC,3.0,4.0,5.0
+1581,hemorrhoids,Hydrocortisone,Off Label,RX,3.0,5.0,3.0
+1582,hemorrhoids,Lidocaine-Hydrocortisone-Aloe,On Label,RX,5.0,3.0,4.0
+1583,hemorrhoids,Pramoxine-Zinc Acetate,On Label,OTC,5.0,5.0,5.0
+1584,hemorrhoids,Lidocaine,On Label,OTC,3.0,4.0,3.0
+1585,hemorrhoids,"Phenylephrine-Zinc Oxide, Phenylephrn-Pramoxine-Mo-W.Pet",On Label,OTC,5.0,5.0,5.0
+1586,hemorrhoids,"Phenyleph-Shark Oil-Cocoa Butr, Skin Rsp Ftr-Srk Liv-Phenylmer, Phenyleph-Shark Liv Oil-Mo-Pet",On Label,OTC,4.0,4.0,4.0
+1588,hemorrhoids,Lidocaine,On Label,OTC,5.0,5.0,5.0
+1589,hemorrhoids,Zinc Oxide,On Label,OTC,1.0,1.0,1.0
+1590,hemorrhoids,Hydrocortisone Acetate,Off Label,RX/OTC,2.0,4.0,2.0
+1592,hemorrhoids,Pramoxine-Calamine,On Label,OTC,5.0,3.0,5.0
+1593,hemorrhoids,Phenyleph-Pramoxin-Glycr-W.Pet,On Label,OTC,4.0,4.0,5.0
+1594,hemorrhoids,Phenyleph-Min Oil-Petrolatum,On Label,OTC,5.0,4.0,5.0
+1595,hemorrhoids,Phenylephrine-Cocoa Butter,On Label,OTC,4.0,4.0,4.0
+1596,hemorrhoids,Lidocaine-Hydrocortisone-Aloe,On Label,RX,4.0,3.0,4.0
+1597,hemorrhoids,Hydrocortisone,Off Label,OTC,4.0,5.0,4.0
+1598,hemorrhoids,Hydrocortisone,Off Label,RX,3.0,3.0,2.0
+1599,hemorrhoids,"Diphenhydramine-Calamine, Pramoxine-Calamine",On Label,OTC,3.0,5.0,4.0
+1600,hemorrhoids,Hydrocortisone Acetate,On Label,RX,1.0,5.0,1.0
+1601,herpes zoster,Valacyclovir,On Label,RX,4.29,4.6,4.15
+1602,herpes zoster,Valacyclovir,On Label,RX,3.96,4.16,3.61
+1603,herpes zoster,Famciclovir,On Label,RX,3.92,4.13,3.33
+1604,herpes zoster,Acyclovir,On Label,RX,4.25,3.5,3.75
+1605,herpes zoster,Acyclovir Sodium,On Label,RX,2.0,3.0,1.67
+1606,herpes zoster,Acyclovir Sodium,On Label,RX,5.0,4.5,5.0
+1607,hypercholesterolemia,Simvastatin,On Label,RX,3.06,3.83,2.14
+1608,hypercholesterolemia,Atorvastatin,On Label,RX,3.33,3.84,2.45
+1609,hypercholesterolemia,Rosuvastatin,On Label,RX,3.26,3.82,2.22
+1610,hypercholesterolemia,Simvastatin,On Label,RX,3.14,3.8,2.34
+1611,hypercholesterolemia,Pravastatin,On Label,RX,2.85,3.66,2.07
+1612,hypercholesterolemia,Ezetimibe,On Label,RX,2.96,3.86,2.46
+1613,hypercholesterolemia,"Fenofibrate Micronized, Fenofibrate Nanocrystallized",On Label,RX,3.16,4.01,2.4
+1614,hypercholesterolemia,Niacin,On Label,RX,3.11,3.34,2.73
+1615,hypercholesterolemia,Fenofibric Acid (Choline),On Label,RX,2.64,3.67,2.31
+1616,hypercholesterolemia,Pitavastatin Calcium,On Label,RX,2.94,3.28,2.16
+1617,hypercholesterolemia,Lovastatin,On Label,RX,2.82,3.71,2.18
+1618,hypercholesterolemia,Atorvastatin,On Label,RX,3.38,3.8,2.55
+1619,hypercholesterolemia,Pravastatin,On Label,RX,2.75,3.74,1.98
+1620,hypercholesterolemia,Ezetimibe-Simvastatin,On Label,RX,4.25,4.41,3.33
+1621,hypercholesterolemia,Fenofibrate,On Label,RX,3.53,4.04,2.96
+1622,hypercholesterolemia,Cholestyramine-Aspartame,On Label,RX,4.38,4.38,4.08
+1623,hypercholesterolemia,Colestipol,On Label,RX,4.08,3.68,3.78
+1625,hypercholesterolemia,Niacin,On Label,RX/OTC,3.41,3.53,3.18
+1626,hypercholesterolemia,Cholestyramine-Aspartame,On Label,RX,4.18,3.71,3.58
+1627,hypercholesterolemia,Amlodipine-Atorvastatin,On Label,RX,3.56,4.25,3.38
+1628,hypercholesterolemia,Cholestyramine-Aspartame,On Label,RX,3.89,4.11,3.61
+1629,hypercholesterolemia,Evolocumab,On Label,RX,3.79,3.79,2.42
+1630,hypercholesterolemia,Niacin,On Label,RX,3.19,3.56,3.13
+1631,hypercholesterolemia,Rosuvastatin,On Label,RX,3.2,4.25,2.9
+1632,hypercholesterolemia,Niacin,On Label,RX,2.64,3.09,2.09
+1633,hypercholesterolemia,Ezetimibe-Simvastatin,On Label,RX,4.64,4.5,3.79
+1634,hypercholesterolemia,Colestipol,On Label,RX,4.54,4.38,4.5
+1636,hypercholesterolemia,Cholestyramine (With Sugar),On Label,RX,4.3,4.35,4.1
+1637,hypercholesterolemia,Ezetimibe-Simvastatin,On Label,RX,4.4,4.53,3.67
+1638,hypercholesterolemia,Lovastatin,On Label,RX,3.25,4.31,2.88
+1639,hypercholesterolemia,Cholestyramine-Aspartame,On Label,RX,4.56,4.25,4.5
+1640,hypercholesterolemia,Fluvastatin,On Label,RX,3.71,4.36,3.21
+1641,hypercholesterolemia,Fenofibrate,On Label,RX,1.0,1.0,1.0
+1642,hypercholesterolemia,Fluvastatin,On Label,RX,2.8,3.8,2.7
+1643,hypercholesterolemia,Fenofibrate,On Label,RX,3.3,4.0,2.8
+1644,hypercholesterolemia,Niacin,On Label,RX,4.0,4.43,4.29
+1645,hypercholesterolemia,Fenofibrate Micronized,On Label,RX,3.67,4.33,3.67
+1646,hypercholesterolemia,Fenofibrate Nanocrystallized,On Label,RX,3.6,3.4,3.2
+1647,hypercholesterolemia,Cholestyramine-Aspartame,On Label,RX,4.43,3.86,4.0
+1648,hypercholesterolemia,Alirocumab,On Label,RX,4.29,4.43,3.86
+1649,hypercholesterolemia,Amlodipine-Atorvastatin,On Label,RX,4.0,4.0,3.75
+1650,hypercholesterolemia,Fenofibric Acid,On Label,RX,3.0,5.0,2.33
+1651,hypercholesterolemia,"Fenofibrate Micronized, Fenofibrate",On Label,RX,5.0,5.0,4.5
+1652,hypercholesterolemia,Fenofibric Acid (Choline),On Label,RX,1.5,1.5,1.0
+1653,hypercholesterolemia,Niacin,On Label,OTC,3.0,3.0,3.0
+1654,hypercholesterolemia,Pitavastatin Calcium,On Label,RX,3.67,2.67,3.0
+1655,hypercholesterolemia,Fenofibrate Nanocrystallized,On Label,RX,5.0,3.0,3.0
+1656,hypercholesterolemia,Lovastatin,On Label,RX,3.5,3.5,4.0
+1657,hypercholesterolemia,Fluvastatin,On Label,RX,4.5,5.0,3.5
+1659,hypercholesterolemia,Niacin,On Label,RX/OTC,4.5,3.0,4.5
+1660,hypercholesterolemia,Colestipol,On Label,RX,4.0,5.0,5.0
+1661,hypercholesterolemia,Evolocumab,On Label,RX,4.5,4.5,4.0
+1662,hypercholesterolemia,Evolocumab,On Label,RX,5.0,5.0,5.0
+1663,hypercholesterolemia,Lovastatin,On Label,RX,3.0,3.0,3.0
+1664,hypercholesterolemia,Niacin,On Label,OTC,5.0,2.0,3.0
+1665,hypercholesterolemia,Niacin,On Label,RX,1.0,1.0,1.0
+1666,hypertension,Lisinopril,On Label,RX,3.4,4.0,2.72
+1668,hypertension,Atenolol,On Label,RX,3.74,4.29,3.35
+1669,hypertension,Nebivolol,On Label,RX,3.28,3.97,2.66
+1670,hypertension,Valsartan,On Label,RX,3.55,4.14,3.04
+1671,hypertension,Hydrochlorothiazide,On Label,RX,3.3,3.96,2.77
+1672,hypertension,Amlodipine,On Label,RX,3.23,3.89,2.56
+1673,hypertension,Metoprolol Succinate,On Label,RX,3.21,3.83,2.63
+1674,hypertension,Amlodipine,On Label,RX,3.31,3.95,2.65
+1675,hypertension,Metoprolol Succinate,On Label,RX,3.52,4.05,3.07
+1676,hypertension,Olmesartan,On Label,RX,3.75,4.19,3.11
+1677,hypertension,Losartan,On Label,RX,2.98,3.74,2.49
+1678,hypertension,Metoprolol Tartrate,On Label,RX,3.21,3.84,2.67
+1679,hypertension,Lisinopril-Hydrochlorothiazide,On Label,RX,3.63,4.02,2.75
+1680,hypertension,Clonidine Hcl,On Label,RX,3.47,3.68,2.76
+1682,hypertension,Valsartan-Hydrochlorothiazide,On Label,RX,3.85,4.19,3.29
+1683,hypertension,Spironolactone,On Label,RX,3.88,4.36,3.5
+1684,hypertension,Propranolol,On Label,RX,3.5,4.23,3.17
+1688,hypertension,Carvedilol,On Label,RX,3.11,3.67,2.65
+1689,hypertension,Carvedilol,On Label,RX,3.25,3.65,2.72
+1690,hypertension,Amlodipine-Olmesartan,On Label,RX,3.7,4.18,3.14
+1691,hypertension,Amlodipine-Valsartan,On Label,RX,3.71,4.08,2.87
+1692,hypertension,Amlodipine-Benazepril,On Label,RX,3.93,4.34,3.29
+1693,hypertension,Furosemide,On Label,RX,3.05,4.16,2.97
+1695,hypertension,Verapamil,On Label,RX,3.24,4.04,2.88
+1698,hypertension,Furosemide,On Label,RX,3.21,4.01,2.99
+1700,hypertension,Losartan-Hydrochlorothiazide,On Label,RX,3.71,4.19,3.13
+1701,hypertension,Propranolol,On Label,RX,3.71,4.32,3.3
+1702,hypertension,Aliskiren,On Label,RX,3.09,4.03,2.63
+1703,hypertension,Enalapril Maleate,On Label,RX,3.56,4.23,3.06
+1705,hypertension,Losartan-Hydrochlorothiazide,On Label,RX,3.43,4.04,2.83
+1706,hypertension,Telmisartan,On Label,RX,3.69,3.89,3.17
+1707,hypertension,Diltiazem Hcl,On Label,RX,3.05,3.85,2.53
+1713,hypertension,Metoprolol Tartrate,On Label,RX,3.43,4.03,2.94
+1714,hypertension,Ramipril,On Label,RX,3.92,4.43,3.5
+1715,hypertension,Triamterene-Hydrochlorothiazid,On Label,RX,3.88,4.24,3.45
+1716,hypertension,Telmisartan-Hydrochlorothiazid,On Label,RX,3.94,3.97,3.4
+1717,hypertension,Irbesartan-Hydrochlorothiazide,On Label,RX,3.95,4.42,3.59
+1718,hypertension,Labetalol,On Label,RX,3.05,3.72,2.59
+1719,hypertension,Terazosin,On Label,RX,3.43,4.14,3.03
+1720,hypertension,Amlodipine-Benazepril,On Label,RX,3.68,4.06,3.08
+1721,hypertension,Hydralazine,On Label,RX,2.57,3.1,2.02
+1722,hypertension,Candesartan,On Label,RX,4.05,4.27,3.44
+1723,hypertension,Benazepril,On Label,RX,3.57,4.01,3.16
+1724,hypertension,Doxazosin,On Label,RX,3.09,4.46,2.81
+1726,hypertension,Olmesartan-Amlodipin-Hcthiazid,On Label,RX,4.05,4.25,3.3
+1727,hypertension,Prazosin,On Label,RX,3.53,4.06,3.38
+1728,hypertension,Valsartan,On Label,RX,3.07,3.8,2.6
+1729,hypertension,Nifedipine,On Label,RX,3.29,3.71,2.63
+1731,hypertension,Diltiazem Hcl,On Label,RX,2.83,3.88,2.52
+1732,hypertension,Spironolactone,On Label,RX,3.95,4.4,3.25
+1733,hypertension,Bisoprolol Fumarate,On Label,RX,3.1,3.97,2.72
+1734,hypertension,Bisoprolol-Hydrochlorothiazide,On Label,RX,3.92,4.4,3.52
+1735,hypertension,Triamterene-Hydrochlorothiazid,On Label,RX,3.83,4.46,3.31
+1736,hypertension,Azilsartan Med-Chlorthalidone,On Label,RX,3.68,3.84,2.53
+1737,hypertension,Chlorthalidone,On Label,RX,3.02,3.9,2.25
+1738,hypertension,Diltiazem Hcl,On Label,RX,2.9,3.83,2.52
+1739,hypertension,Azilsartan Medoxomil,On Label,RX,3.84,4.07,2.91
+1740,hypertension,Guanfacine,On Label,RX,3.39,3.94,3.16
+1742,hypertension,Atenolol,On Label,RX,4.02,4.51,3.51
+1743,hypertension,Carvedilol Phosphate,On Label,RX,2.84,3.61,2.42
+1744,hypertension,Atenolol-Chlorthalidone,On Label,RX,3.98,4.29,3.09
+1745,hypertension,Lisinopril,On Label,RX,3.55,4.23,2.52
+1746,hypertension,Nadolol,On Label,RX,4.0,4.25,3.44
+1747,hypertension,Benazepril-Hydrochlorothiazide,On Label,RX,3.76,4.24,3.04
+1748,hypertension,Clonidine Hcl,On Label,RX,3.32,3.92,2.48
+1749,hypertension,Terazosin,On Label,RX,3.24,3.86,2.97
+1750,hypertension,Doxazosin,On Label,RX,3.2,3.73,2.83
+1751,hypertension,Nifedipine,On Label,RX,3.83,4.22,3.02
+1752,hypertension,Amlodipine-Valsartan-Hcthiazid,On Label,RX,3.98,4.25,3.32
+1753,hypertension,Nifedipine,On Label,RX,3.7,3.93,3.0
+1754,hypertension,Quinapril,On Label,RX,3.64,4.21,3.4
+1755,hypertension,Enalapril Maleate,On Label,RX,3.78,4.39,3.05
+1756,hypertension,Lisinopril-Hydrochlorothiazide,On Label,RX,3.77,3.96,2.91
+1757,hypertension,Felodipine,On Label,RX,3.64,4.21,3.12
+1758,hypertension,Propranolol,On Label,RX,4.22,4.72,4.0
+1759,hypertension,Quinapril,On Label,RX,3.84,4.26,3.58
+1760,hypertension,Amlodipine-Atorvastatin,On Label,RX,3.56,4.25,3.38
+1761,hypertension,Diltiazem Hcl,Off Label,RX,3.55,3.95,2.7
+1762,hypertension,Torsemide,On Label,RX,3.85,4.1,3.1
+1763,hypertension,Nisoldipine,On Label,RX,3.0,3.65,2.48
+1765,hypertension,Trandolapril-Verapamil,On Label,RX,4.26,4.49,3.97
+1766,hypertension,Triamterene-Hydrochlorothiazid,On Label,RX,3.46,4.21,3.18
+1767,hypertension,Bumetanide,Off Label,RX,3.78,4.17,3.61
+1768,hypertension,Telmisartan,On Label,RX,3.61,3.77,3.16
+1769,hypertension,Candesartan-Hydrochlorothiazid,On Label,RX,4.34,4.66,4.17
+1770,hypertension,Minoxidil,On Label,RX,3.21,3.54,2.89
+1771,hypertension,Indapamide,On Label,RX,3.43,4.52,2.9
+1772,hypertension,Trandolapril,On Label,RX,4.18,3.91,3.55
+1773,hypertension,Perindopril Erbumine,On Label,RX,3.22,3.89,2.67
+1774,hypertension,Metolazone,On Label,RX,3.69,4.62,3.31
+1775,hypertension,Fosinopril,On Label,RX,3.89,4.74,3.59
+1776,hypertension,Prazosin,On Label,RX,4.0,4.33,3.78
+1777,hypertension,Bisoprolol Fumarate,On Label,RX,3.76,4.47,3.18
+1778,hypertension,Diltiazem Hcl,On Label,RX,3.88,4.13,3.06
+1779,hypertension,Hydrochlorothiazide,On Label,RX,4.12,4.41,3.94
+1780,hypertension,Irbesartan-Hydrochlorothiazide,On Label,RX,3.38,3.5,2.71
+1781,hypertension,Bisoprolol-Hydrochlorothiazide,On Label,RX,3.35,3.87,2.96
+1782,hypertension,Lisinopril-Hydrochlorothiazide,On Label,RX,3.7,4.22,3.35
+1783,hypertension,Diltiazem Hcl,On Label,RX,3.26,4.16,2.95
+1784,hypertension,Nifedipine,On Label,RX,3.91,4.0,3.18
+1785,hypertension,Methyldopa,On Label,RX,3.68,3.59,2.86
+1786,hypertension,Benazepril-Hydrochlorothiazide,On Label,RX,4.24,4.71,3.29
+1787,hypertension,Nebivolol,On Label,RX,4.0,4.29,3.82
+1788,hypertension,Clonidine,On Label,RX,3.83,4.17,2.67
+1789,hypertension,Eprosartan,On Label,RX,4.75,4.92,4.42
+1790,hypertension,Nadolol,On Label,RX,5.0,5.0,5.0
+1791,hypertension,Metoprolol Ta-Hydrochlorothiaz,On Label,RX,4.11,4.22,3.94
+1792,hypertension,Bumetanide,Off Label,RX,4.0,4.5,3.63
+1793,hypertension,Felodipine,On Label,RX,3.95,4.32,3.37
+1794,hypertension,Olmesartan,On Label,RX,3.89,4.0,3.32
+1795,hypertension,Telmisartan-Amlodipine,On Label,RX,4.4,4.6,4.35
+1796,hypertension,Captopril,On Label,RX,3.43,3.5,3.07
+1797,hypertension,Isradipine,On Label,RX,3.26,4.32,2.63
+1798,hypertension,Benazepril,On Label,RX,3.69,3.75,3.06
+1799,hypertension,Spironolacton-Hydrochlorothiaz,On Label,RX,3.27,3.67,3.0
+1800,hypertension,Acebutolol,On Label,RX,4.0,4.4,4.4
+1801,hypertension,Eplerenone,On Label,RX,3.5,3.5,3.5
+1802,hypertension,Enalapril-Hydrochlorothiazide,On Label,RX,4.0,4.44,2.75
+1803,hypertension,Pindolol,On Label,RX,4.18,4.36,3.45
+1804,hypertension,Nifedipine,On Label,RX,3.85,4.15,3.0
+1805,hypertension,Diltiazem Hcl,On Label,RX,4.0,3.73,3.36
+1806,hypertension,Diltiazem Hcl,On Label,RX,3.44,4.44,3.33
+1807,hypertension,Clonidine,On Label,RX,4.58,4.75,4.17
+1808,hypertension,Propranolol,On Label,RX,3.86,5.0,3.29
+1809,hypertension,Isradipine,On Label,RX,4.29,4.29,3.29
+1810,hypertension,Torsemide,On Label,RX,3.17,3.0,2.67
+1811,hypertension,Amlodipine-Valsartan,On Label,RX,4.0,4.2,3.47
+1812,hypertension,Diltiazem Hcl,On Label,RX,2.2,4.4,2.4
+1813,hypertension,Atenolol-Chlorthalidone,On Label,RX,3.67,4.42,3.25
+1814,hypertension,Candesartan,On Label,RX,4.0,4.27,3.36
+1815,hypertension,Acebutolol,On Label,RX,3.5,4.25,4.0
+1816,hypertension,Ethacrynic Acid,Off Label,RX,4.33,4.0,3.0
+1817,hypertension,Clonidine,On Label,RX,4.0,3.67,3.5
+1818,hypertension,Atenolol-Chlorthalidone,On Label,RX,3.92,4.5,2.67
+1819,hypertension,Hydralazine,On Label,RX,2.0,1.64,1.82
+1820,hypertension,Eplerenone,On Label,RX,3.33,4.0,3.11
+1821,hypertension,Propranolol-Hydrochlorothiazid,On Label,RX,3.57,4.14,3.29
+1822,hypertension,Quinapril-Hydrochlorothiazide,On Label,RX,4.0,4.22,3.22
+1823,hypertension,Metolazone,On Label,RX,3.2,3.4,2.2
+1824,hypertension,Clonidine Hcl,Off Label,RX,3.67,4.83,3.0
+1825,hypertension,Telmisartan-Hydrochlorothiazid,On Label,RX,3.2,3.1,3.0
+1826,hypertension,Fosinopril,On Label,RX,4.56,4.67,4.22
+1827,hypertension,Perindopril Erbumine,On Label,RX,4.13,4.25,4.13
+1828,hypertension,Betaxolol,On Label,RX,5.0,5.0,5.0
+1829,hypertension,Nisoldipine,On Label,RX,3.33,4.11,2.67
+1831,hypertension,Metoprolol Ta-Hydrochlorothiaz,On Label,RX,4.6,4.8,4.4
+1832,hypertension,Diltiazem Hcl,On Label,RX,3.6,4.0,3.0
+1833,hypertension,Clonidine,On Label,RX,4.4,4.6,3.8
+1834,hypertension,Verapamil,On Label,RX,5.0,5.0,5.0
+1835,hypertension,Metoprolol Su-Hydrochlorothiaz,On Label,RX,3.5,3.17,2.5
+1836,hypertension,Telmisartan-Amlodipine,On Label,RX,4.14,4.29,4.29
+1837,hypertension,Amlodipine-Atorvastatin,On Label,RX,4.0,4.0,3.75
+1838,hypertension,Spironolacton-Hydrochlorothiaz,On Label,RX,4.17,3.83,2.67
+1839,hypertension,Triamterene,Off Label,RX,3.33,4.0,1.67
+1840,hypertension,Amiloride-Hydrochlorothiazide,On Label,RX,2.33,2.33,2.0
+1841,hypertension,Verapamil,On Label,RX,4.0,5.0,4.0
+1842,hypertension,Amiloride-Hydrochlorothiazide,On Label,RX,2.67,3.0,2.33
+1843,hypertension,Labetalol,On Label,RX,3.6,4.4,3.4
+1844,hypertension,Trandolapril,On Label,RX,4.0,4.17,3.5
+1845,hypertension,Chlorothiazide,On Label,RX,3.8,3.0,3.2
+1846,hypertension,Verapamil,On Label,RX,3.67,3.67,3.67
+1847,hypertension,Hydralazine,On Label,RX,1.67,1.0,1.0
+1848,hypertension,Nifedipine,On Label,RX,4.25,4.5,3.5
+1849,hypertension,Verapamil,On Label,RX,4.5,4.5,3.25
+1850,hypertension,Moexipril,On Label,RX,4.0,4.25,3.75
+1851,hypertension,Indapamide,On Label,RX,3.8,4.6,3.4
+1852,hypertension,Hydrochlorothiazide,On Label,RX,3.33,3.67,3.0
+1853,hypertension,Amlodipine-Olmesartan,On Label,RX,3.2,4.2,1.8
+1854,hypertension,Quinapril-Hydrochlorothiazide,On Label,RX,3.5,4.0,2.25
+1855,hypertension,Diltiazem Hcl,On Label,RX,3.67,5.0,3.67
+1856,hypertension,Quinapril-Hydrochlorothiazide,On Label,RX,4.5,4.5,4.0
+1857,hypertension,Moexipril,On Label,RX,5.0,3.67,3.67
+1858,hypertension,Verapamil,On Label,RX,2.5,4.5,3.0
+1859,hypertension,Labetalol,On Label,RX,3.25,3.5,3.25
+1860,hypertension,Chlorothiazide,On Label,RX,3.0,5.0,3.0
+1861,hypertension,Enalapril-Hydrochlorothiazide,On Label,RX,4.25,4.25,4.25
+1862,hypertension,Nicardipine,On Label,RX,5.0,5.0,4.0
+1863,hypertension,Labetalol,On Label,RX,3.5,4.25,3.5
+1864,hypertension,Captopril-Hydrochlorothiazide,On Label,RX,3.67,4.0,3.67
+1865,hypertension,Captopril,On Label,RX,2.33,3.33,2.33
+1866,hypertension,Fosinopril-Hydrochlorothiazide,On Label,RX,1.5,2.0,1.0
+1867,hypertension,Amlodipine-Valsartan-Hcthiazid,On Label,RX,3.5,4.0,3.5
+1868,hypertension,Isradipine,On Label,RX,2.67,4.0,2.67
+1869,hypertension,Atenolol,On Label,RX,3.67,5.0,3.67
+1870,hypertension,Olmesartan-Amlodipin-Hcthiazid,On Label,RX,3.67,5.0,3.67
+1871,hypertension,Hydrochlorothiazide,On Label,RX,3.0,4.0,2.0
+1872,hypertension,"Triamterene-Hydrochlorothiazid, Trichlormethiazide",On Label,RX,2.0,1.0,1.0
+1873,hypertension,Triamterene-Hydrochlorothiazid,On Label,RX,3.0,5.0,3.0
+1874,hypertension,Hydrochlorothiazide,On Label,RX,3.0,5.0,2.0
+1875,hypertension,Pindolol,On Label,RX,5.0,1.0,1.0
+1876,hypertension,Chlorthalidone,On Label,RX,1.0,5.0,1.0
+1877,hypertension,Furosemide,On Label,RX,2.0,5.0,1.0
+1878,hypertension,Azilsartan Med-Chlorthalidone,On Label,RX,5.0,5.0,5.0
+1879,hypertension,Diltiazem Hcl,On Label,RX,4.0,4.0,2.0
+1880,hypertension,Nicardipine,On Label,RX,1.0,1.0,1.0
+1881,hypertension,Candesartan-Hydrochlorothiazid,On Label,RX,4.5,4.5,4.5
+1882,hypertension,Timolol Maleate,On Label,RX,3.0,3.0,3.0
+1883,hypertension,Azilsartan Medoxomil,On Label,RX,5.0,5.0,5.0
+1884,hypertension,Betaxolol,On Label,RX,4.0,4.0,4.0
+1885,hypertension,Methyldopa-Hydrochlorothiazide,On Label,RX,5.0,5.0,5.0
+1886,hypertension,Propranolol,On Label,RX,5.0,5.0,5.0
+1887,hypertension,Hydrochlorothiazide,On Label,RX,5.0,5.0,4.0
+1888,hypertension,Hydrochlorothiazide,On Label,RX,1.0,1.0,1.0
+1889,hypertension,Propranolol,On Label,RX,4.0,4.0,5.0
+1890,hypertension,Hydrochlorothiazide,On Label,RX,5.0,5.0,5.0
+1891,hypertension,Spironolacton-Hydrochlorothiaz,On Label,RX,1.0,4.0,1.0
+1892,hypertension,Furosemide,On Label,RX,2.0,2.0,2.0
+1893,hypertension,Trandolapril-Verapamil,On Label,RX,4.0,5.0,4.0
+1894,hypertension,Triamterene-Hydrochlorothiazid,On Label,RX,2.0,1.0,1.0
+1895,hypertension,Propranolol-Hydrochlorothiazid,On Label,RX,2.0,4.0,1.0
+1896,hypertension,Spironolacton-Hydrochlorothiaz,On Label,RX,5.0,5.0,5.0
+1898,hypertension,Eprosartan,On Label,RX,5.0,5.0,5.0
+1899,hypertension,Perindopril-Amlodipine,On Label,RX,5.0,5.0,4.0
+1900,hypertension,Methyldopa-Hydrochlorothiazide,On Label,RX,4.0,5.0,3.0
+1901,hypertension,Chlorthalidone,On Label,RX,4.0,4.0,4.0
+1902,impetigo,Cefuroxime Axetil,On Label,RX,3.15,3.06,2.33
+1904,impetigo,Cefuroxime Axetil,On Label,RX,3.23,3.62,2.85
+1906,impetigo,"Mupirocin Calcium, Mupirocin",On Label,RX,3.86,4.55,3.79
+1908,impetigo,Mupirocin,On Label,RX,3.91,4.36,3.09
+1909,impetigo,Retapamulin,On Label,RX,3.88,4.19,3.81
+1910,impetigo,Retapamulin,On Label,RX,4.0,4.0,4.0
+1911,impetigo,Mupirocin,On Label,RX,1.0,4.0,1.0
+1912,Infantile Autism,Risperidone,On Label,RX,2.87,3.28,2.41
+1913,Infantile Autism,Risperidone,On Label,RX,2.97,3.72,2.52
+1915,Infantile Autism,Paliperidone,Off Label,RX,3.96,4.37,3.65
+1916,Infantile Autism,Aripiprazole,On Label,RX,3.0,4.06,2.88
+1919,Infantile Autism,Risperidone,On Label,RX,2.0,2.4,1.4
+1920,Infantile Autism,Paliperidone,Off Label,RX,4.75,4.75,4.75
+1921,Infantile Autism,Aripiprazole,On Label,RX,2.4,2.6,2.4
+1922,Influenza,Oseltamivir,On Label,RX,3.53,3.81,3.13
+1924,Influenza,Zanamivir,On Label,RX,3.25,3.69,3.0
+1925,Influenza,Zanamivir,On Label,RX,1.0,1.0,1.0
+1926,meniere's disease,Dimenhydrinate,Off Label,OTC,3.67,4.67,3.67
+1927,meniere's disease,Dimenhydrinate,Off Label,OTC,5.0,5.0,5.0
+1928,meniere's disease,Dimenhydrinate,Off Label,OTC,5.0,5.0,1.0
+1929,meniere's disease,Dimenhydrinate,Off Label,OTC,5.0,5.0,5.0
+1930,meniere's disease,Dimenhydrinate,Off Label,OTC,4.0,4.0,4.0
+1931,meniere's disease,Dimenhydrinate,Off Label,OTC,3.0,5.0,2.0
+1932,oral candidiasis,Fluconazole,On Label,RX,3.32,4.41,2.97
+1934,oral candidiasis,Fluconazole,On Label,RX,3.88,4.42,3.47
+1936,oral candidiasis,Nystatin,On Label,RX,2.73,3.68,2.52
+1938,oral candidiasis,Clotrimazole,On Label,RX,2.45,3.41,2.5
+1939,oral candidiasis,Clotrimazole,On Label,RX,3.0,4.71,3.14
+1940,oral candidiasis,Nystatin,On Label,RX,4.5,4.5,4.0
+1942,oral candidiasis,Nystatin,On Label,RX,5.0,5.0,5.0
+1943,oral candidiasis,Nystatin,On Label,RX,1.0,1.0,1.0
+1944,oral candidiasis,Nystatin,On Label,RX,2.0,2.0,1.0
+1945,Pharyngitis due to Streptococcus Pyogenes,Azithromycin,On Label,RX,3.21,4.01,2.57
+1950,Pharyngitis due to Streptococcus Pyogenes,Amoxicillin,On Label,RX,3.04,3.37,2.34
+1954,Pharyngitis due to Streptococcus Pyogenes,Cephalexin,On Label,RX,2.93,3.47,2.24
+1955,Pharyngitis due to Streptococcus Pyogenes,Cefdinir,On Label,RX,2.36,3.35,1.85
+1957,Pharyngitis due to Streptococcus Pyogenes,Cephalexin,On Label,RX,2.85,3.14,2.18
+1958,Pharyngitis due to Streptococcus Pyogenes,Clarithromycin,On Label,RX,3.45,3.23,2.63
+1959,Pharyngitis due to Streptococcus Pyogenes,Clarithromycin,On Label,RX,3.0,3.4,2.18
+1962,Pharyngitis due to Streptococcus Pyogenes,Cefuroxime Axetil,On Label,RX,3.15,3.06,2.33
+1964,Pharyngitis due to Streptococcus Pyogenes,Azithromycin,On Label,RX,3.52,4.0,2.93
+1965,Pharyngitis due to Streptococcus Pyogenes,Cefdinir,On Label,RX,2.36,3.78,1.69
+1967,Pharyngitis due to Streptococcus Pyogenes,Cefuroxime Axetil,On Label,RX,3.23,3.62,2.85
+1969,Pharyngitis due to Streptococcus Pyogenes,Azithromycin,On Label,RX,3.56,3.94,2.13
+1973,Pharyngitis due to Streptococcus Pyogenes,Penicillin V Potassium,On Label,RX,3.18,3.61,2.82
+1974,Pharyngitis due to Streptococcus Pyogenes,Erythromycin,On Label,RX,2.11,2.79,1.32
+1976,Pharyngitis due to Streptococcus Pyogenes,Cefixime,On Label,RX,2.73,3.09,1.45
+1978,Pharyngitis due to Streptococcus Pyogenes,Cefprozil,On Label,RX,2.75,1.88,2.0
+1980,Pharyngitis due to Streptococcus Pyogenes,Cefadroxil,On Label,RX,2.64,3.36,2.07
+1981,Pharyngitis due to Streptococcus Pyogenes,Penicillin G Benzathine,On Label,RX,4.07,3.71,3.64
+1982,Pharyngitis due to Streptococcus Pyogenes,Amoxicillin,On Label,RX,3.4,4.7,3.2
+1983,Pharyngitis due to Streptococcus Pyogenes,Erythromycin,On Label,RX,3.8,4.0,3.4
+1984,Pharyngitis due to Streptococcus Pyogenes,Cefprozil,On Label,RX,2.0,4.33,1.33
+1986,Pharyngitis due to Streptococcus Pyogenes,Cefditoren Pivoxil,On Label,RX,3.13,3.75,2.63
+1987,Pharyngitis due to Streptococcus Pyogenes,Cefpodoxime,On Label,RX,2.67,4.33,2.33
+1988,Pharyngitis due to Streptococcus Pyogenes,Cefaclor,On Label,RX,3.33,4.0,2.17
+1991,Pharyngitis due to Streptococcus Pyogenes,Erythromycin Stearate,On Label,RX,3.0,2.8,2.2
+1992,Pharyngitis due to Streptococcus Pyogenes,Cefadroxil,On Label,RX,2.25,2.25,1.88
+1993,Pharyngitis due to Streptococcus Pyogenes,Erythromycin Ethylsuccinate,On Label,RX,3.25,2.75,3.0
+1995,Pharyngitis due to Streptococcus Pyogenes,Penicillin G Benzathine,On Label,RX,2.8,1.8,2.4
+1996,Pharyngitis due to Streptococcus Pyogenes,Amoxicillin,On Label,RX,2.33,3.67,3.0
+1999,Pharyngitis due to Streptococcus Pyogenes,Cefixime,On Label,RX,4.5,4.0,4.5
+2000,Pharyngitis due to Streptococcus Pyogenes,Amoxicillin,On Label,RX,3.0,5.0,3.0
+2003,Pharyngitis due to Streptococcus Pyogenes,"Penicillin G Benzathin,Procain",On Label,RX,2.67,2.67,2.33
+2004,Pharyngitis due to Streptococcus Pyogenes,Azithromycin,On Label,RX,2.5,3.5,1.0
+2005,Pharyngitis due to Streptococcus Pyogenes,Erythromycin Stearate,On Label,RX,5.0,4.0,5.0
+2006,Pharyngitis due to Streptococcus Pyogenes,Erythromycin Ethylsuccinate,On Label,RX,1.0,1.0,1.0
+2007,Pharyngitis due to Streptococcus Pyogenes,Penicillin V Potassium,On Label,RX,4.0,3.0,2.0
+2008,Pharyngitis due to Streptococcus Pyogenes,Penicillin V Potassium,On Label,RX,2.0,2.0,3.0
+2009,Pharyngitis due to Streptococcus Pyogenes,Erythromycin Ethylsuccinate,On Label,RX,4.0,4.0,4.0
+2011,Pharyngitis due to Streptococcus Pyogenes,Cefditoren Pivoxil,On Label,RX,4.0,4.0,2.0
+2012,Pharyngitis due to Streptococcus Pyogenes,Erythromycin Stearate,On Label,RX,4.0,4.0,4.0
+2013,Pharyngitis due to Streptococcus Pyogenes,Amoxicillin,On Label,RX,4.0,4.0,5.0
+2014,Pharyngitis due to Streptococcus Pyogenes,Penicillin V Potassium,On Label,RX,3.0,5.0,3.0
+2015,Pharyngitis due to Streptococcus Pyogenes,Cephalexin,On Label,RX,5.0,5.0,5.0
+2016,Pharyngitis due to Streptococcus Pyogenes,Amoxicillin,On Label,RX,5.0,5.0,5.0
+2020,Pharyngitis due to Streptococcus Pyogenes,Cephalexin,On Label,RX,2.0,5.0,1.0
+2021,Pharyngitis due to Streptococcus Pyogenes,Amoxicillin,On Label,RX,5.0,1.0,1.0
+2022,Pharyngitis due to Streptococcus Pyogenes,Erythromycin,On Label,RX,5.0,2.0,4.0
+2023,Pharyngitis due to Streptococcus Pyogenes,Cefaclor,On Label,RX,4.0,4.0,4.0
+2024,Pharyngitis due to Streptococcus Pyogenes,Erythromycin Ethylsuccinate,On Label,RX,1.0,1.0,1.0
+2025,Pharyngitis due to Streptococcus Pyogenes,Erythromycin Ethylsuccinate,On Label,RX,3.0,3.0,3.0
+2026,Pharyngitis due to Streptococcus Pyogenes,Erythromycin Ethylsuccinate,On Label,RX,5.0,4.0,5.0
+2028,prevention of cerebrovascular accident,Simvastatin,On Label,RX,3.06,3.83,2.14
+2029,prevention of cerebrovascular accident,Atorvastatin,On Label,RX,3.33,3.84,2.45
+2030,prevention of cerebrovascular accident,Rosuvastatin,On Label,RX,3.26,3.82,2.22
+2031,prevention of cerebrovascular accident,Simvastatin,On Label,RX,3.14,3.8,2.34
+2032,prevention of cerebrovascular accident,Pravastatin,On Label,RX,2.85,3.66,2.07
+2033,prevention of cerebrovascular accident,Telmisartan,On Label,RX,3.69,3.89,3.17
+2034,prevention of cerebrovascular accident,Lovastatin,Off Label,RX,2.82,3.71,2.18
+2035,prevention of cerebrovascular accident,Atorvastatin,On Label,RX,3.38,3.8,2.55
+2036,prevention of cerebrovascular accident,Ramipril,On Label,RX,3.92,4.43,3.5
+2037,prevention of cerebrovascular accident,Pravastatin,On Label,RX,2.75,3.74,1.98
+2038,prevention of cerebrovascular accident,Aspirin,On Label,RX/OTC,4.27,4.64,4.55
+2042,prevention of cerebrovascular accident,Amlodipine-Atorvastatin,On Label,RX,3.56,4.25,3.38
+2043,prevention of cerebrovascular accident,Evolocumab,On Label,RX,3.79,3.79,2.42
+2044,prevention of cerebrovascular accident,Rosuvastatin,On Label,RX,3.2,4.25,2.9
+2045,prevention of cerebrovascular accident,Telmisartan,On Label,RX,3.61,3.77,3.16
+2046,prevention of cerebrovascular accident,Lovastatin,Off Label,RX,3.25,4.31,2.88
+2047,prevention of cerebrovascular accident,Fluvastatin,Off Label,RX,3.71,4.36,3.21
+2048,prevention of cerebrovascular accident,Fluvastatin,Off Label,RX,2.8,3.8,2.7
+2049,prevention of cerebrovascular accident,Amlodipine-Atorvastatin,On Label,RX,4.0,4.0,3.75
+2050,prevention of cerebrovascular accident,Aspirin,On Label,OTC,4.0,5.0,5.0
+2051,prevention of cerebrovascular accident,Aspirin,On Label,OTC,2.0,3.0,1.0
+2052,prevention of cerebrovascular accident,Aspirin,On Label,OTC,4.0,4.0,4.0
+2053,prevention of cerebrovascular accident,Lovastatin,Off Label,RX,3.5,3.5,4.0
+2054,prevention of cerebrovascular accident,Fluvastatin,Off Label,RX,4.5,5.0,3.5
+2056,prevention of cerebrovascular accident,Aspirin,On Label,OTC,2.0,4.0,3.0
+2057,prevention of cerebrovascular accident,Evolocumab,On Label,RX,4.5,4.5,4.0
+2058,prevention of cerebrovascular accident,Evolocumab,On Label,RX,5.0,5.0,5.0
+2059,prevention of cerebrovascular accident,Aspirin,On Label,OTC,1.0,1.0,1.0
+2060,prevention of cerebrovascular accident,Aspirin,On Label,OTC,5.0,5.0,5.0
+2061,prevention of cerebrovascular accident,Lovastatin,Off Label,RX,3.0,3.0,3.0
+2066,pyelonephritis,Levofloxacin,On Label,RX,2.52,3.01,1.84
+2068,pyelonephritis,Levofloxacin,On Label,RX,2.44,2.96,1.68
+2070,pyelonephritis,Levofloxacin,On Label,RX,4.0,3.71,2.43
+2071,pyelonephritis,Levofloxacin,On Label,RX,3.29,4.43,3.0
+2072,pyelonephritis,Levofloxacin,On Label,RX,5.0,5.0,5.0
+2073,pyelonephritis,Levofloxacin In D5W,On Label,RX,1.0,3.0,1.0
+2074,pyelonephritis,Levofloxacin In D5W,On Label,RX,2.0,4.0,1.0
+2075,scabies,Permethrin,On Label,RX/OTC,2.58,3.65,2.31
+2077,scabies,Permethrin,On Label,RX,3.36,4.36,3.18
+2078,scabies,Crotamiton,On Label,RX,4.0,4.33,3.5
+2079,scabies,Lindane,On Label,RX,2.67,3.33,2.56
+2080,scabies,Lindane,On Label,RX,3.0,4.0,3.0
+2081,scabies,Permethrin,On Label,RX,1.5,5.0,1.5
+2082,Sleepiness Due To Obstructive Sleep Apnea,Modafinil,On Label,RX,4.32,4.73,4.17
+2083,Sleepiness Due To Obstructive Sleep Apnea,Armodafinil,On Label,RX,3.9,4.36,3.5
+2084,Sleepiness Due To Obstructive Sleep Apnea,Modafinil,On Label,RX,3.97,4.56,3.72
+2085,Sleepiness Due To Obstructive Sleep Apnea,Armodafinil,On Label,RX,4.0,4.0,3.75
+2086,sore throat,Chlorpheniram-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+2087,sore throat,Dextromethorphan-Benzocaine,On Label,OTC,5.0,5.0,4.5
+2088,sore throat,Doxylamine-DM-Acetaminophen,On Label,OTC,5.0,5.0,4.5
+2089,sore throat,Doxylamine-DM-Acetaminophen,On Label,OTC,1.0,5.0,1.0
+2090,sore throat,Doxylamine-DM-Acetaminophen,On Label,OTC,1.0,4.33,1.0
+2091,sore throat,Doxylamine-DM-Acetaminophen,On Label,OTC,2.0,1.0,1.0
+2092,sore throat,Benzocaine,On Label,OTC,3.0,4.5,2.5
+2094,sore throat,Doxylamine-DM-Acetaminophen,On Label,OTC,1.0,1.0,1.0
+2095,sore throat,Doxylamine-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+2096,sore throat,Doxylamine-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+2097,sore throat,Acetaminophen-DM,On Label,OTC,1.0,1.0,1.0
+2098,sore throat,Acetaminophen-DM,On Label,OTC,5.0,5.0,5.0
+2099,sore throat,Dextromethorphan-Benzocaine,On Label,OTC,3.0,3.0,3.0
+2100,sore throat,Doxylamine-DM-Acetaminophen,On Label,OTC,4.0,5.0,4.0
+2103,sore throat,Chlorpheniram-DM-Acetaminophen,On Label,OTC,3.0,5.0,2.0
+2104,sore throat,Dextromethorphan-Benzocaine,On Label,OTC,5.0,5.0,5.0
+2105,sore throat,DM-Benzocaine-Menthol,On Label,OTC,1.0,1.0,1.0
+2106,sore throat,Doxylamine-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+2107,sore throat,Acetaminophen-DM,On Label,OTC,2.0,5.0,3.0
+2108,sore throat,Chlorpheniram-DM-Acetaminophen,On Label,OTC,5.0,5.0,5.0
+2109,vertigo,Diphenhydramine Hcl,On Label,OTC,4.13,4.62,4.02
+2110,vertigo,Diphenhydramine Hcl,On Label,RX/OTC,3.83,4.41,3.5
+2111,vertigo,Diphenhydramine Hcl,On Label,OTC,3.23,4.28,2.8
+2112,vertigo,Meclizine,On Label,RX,3.51,3.95,3.28
+2113,vertigo,Diphenhydramine Hcl,On Label,OTC,4.33,4.67,4.0
+2114,vertigo,Meclizine,On Label,RX,3.42,4.42,3.13
+2115,vertigo,Meclizine,On Label,OTC,3.8,4.2,3.5
+2116,vertigo,Dimenhydrinate,On Label,OTC,3.67,4.67,3.67
+2117,vertigo,Diphenhydramine Citrate,On Label,OTC,4.3,4.6,4.1
+2118,vertigo,Diphenhydramine Hcl,On Label,OTC,4.25,4.56,4.19
+2119,vertigo,Diphenhydramine Hcl,On Label,OTC,4.73,4.82,4.64
+2120,vertigo,Diphenhydramine Hcl,On Label,OTC,4.33,5.0,4.33
+2121,vertigo,Diphenhydramine Hcl,On Label,OTC,4.11,4.44,3.89
+2122,vertigo,Diphenhydramine Hcl,On Label,OTC,3.38,4.88,3.38
+2124,vertigo,Meclizine,On Label,OTC,5.0,5.0,4.5
+2125,vertigo,Diphenhydramine Hcl,On Label,OTC,3.17,4.33,3.17
+2126,vertigo,"Diphenhydramine Hcl, Diphenhydramine Citrate",On Label,OTC,3.5,4.0,3.5
+2127,vertigo,Dimenhydrinate,On Label,OTC,5.0,5.0,5.0
+2128,vertigo,Meclizine,On Label,OTC,4.33,4.33,4.0
+2129,vertigo,Diphenhydramine Hcl,On Label,OTC,5.0,5.0,5.0
+2130,vertigo,Diphenhydramine Hcl,On Label,OTC,1.5,3.0,2.0
+2131,vertigo,Diphenhydramine Hcl,On Label,OTC,4.67,5.0,4.67
+2132,vertigo,Diphenhydramine Hcl,On Label,OTC,2.0,4.0,4.0
+2133,vertigo,Dimenhydrinate,On Label,OTC,5.0,5.0,1.0
+2134,vertigo,Diphenhydramine Hcl,On Label,OTC,4.0,3.5,4.0
+2135,vertigo,Meclizine,On Label,RX/OTC,2.33,3.33,2.0
+2136,vertigo,Meclizine,On Label,OTC,4.0,4.5,4.0
+2137,vertigo,Diphenhydramine Hcl,On Label,OTC,5.0,5.0,5.0
+2138,vertigo,Diphenhydramine Hcl,On Label,OTC,1.5,4.0,1.0
+2139,vertigo,Diphenhydramine Hcl,On Label,OTC,2.0,5.0,1.0
+2140,vertigo,Diphenhydramine Hcl,On Label,OTC,5.0,5.0,5.0
+2141,vertigo,Diphenhydramine Hcl,On Label,OTC,4.5,5.0,4.5
+2142,vertigo,Meclizine,On Label,OTC,5.0,5.0,5.0
+2143,vertigo,"Diphenhydramine Hcl, Clemastine-Phenylprop, Triprolidine-Pseudoephedrine",On Label,OTC,4.0,5.0,4.0
+2145,vertigo,Diphenhydramine Hcl,On Label,OTC,4.0,4.0,4.0
+2146,vertigo,Meclizine,On Label,OTC,2.0,3.0,2.0
+2148,vertigo,Diphenhydramine Hcl,On Label,OTC,4.5,4.5,4.5
+2149,vertigo,Diphenhydramine Hcl,On Label,OTC,4.0,5.0,5.0
+2150,vertigo,Diphenhydramine Hcl,On Label,OTC,3.0,4.0,4.0
+2151,vertigo,Diphenhydramine Hcl,On Label,OTC,5.0,5.0,5.0
+2152,vertigo,Diphenhydramine Hcl,On Label,OTC,5.0,5.0,4.0
+2153,vertigo,"Diphenhydramine Hcl, Dextromethorphan-Guaifenesin, Dextromethorphan Hbr",On Label,OTC,1.0,5.0,1.0
+2156,vertigo,Diphenhydramine Hcl,On Label,OTC,1.0,4.0,1.0
+2157,vertigo,Diphenhydramine Hcl,On Label,OTC,5.0,4.0,5.0
+2158,vertigo,Meclizine,On Label,OTC,5.0,5.0,5.0
+2159,vertigo,Diphenhydramine Hcl,On Label,OTC,1.0,1.0,1.0
+2160,vertigo,Dimenhydrinate,On Label,OTC,5.0,5.0,5.0
+2161,vertigo,Diphenhydramine Hcl,On Label,OTC,4.0,4.0,4.0
+2163,vertigo,Diphenhydramine Hcl,On Label,OTC,3.0,3.0,1.0
+2166,vertigo,Diphenhydramine Hcl,On Label,OTC,5.0,4.0,1.0
+2168,vertigo,Dimenhydrinate,On Label,OTC,4.0,4.0,4.0
+2169,vertigo,Diphenhydramine Hcl,On Label,OTC,2.0,3.0,3.0
+2170,vertigo,Diphenhydramine Hcl,On Label,OTC,1.0,3.0,1.0
+2174,vertigo,Diphenhydramine Hcl,On Label,OTC,3.0,3.0,3.0
+2176,vertigo,Diphenhydramine Hcl,On Label,OTC,3.0,5.0,1.0
+2179,vertigo,Dimenhydrinate,On Label,OTC,3.0,5.0,2.0
+2181,vertigo,Diphenhydramine Hcl,On Label,OTC,4.0,5.0,3.0
+2182,vertigo,Diphenhydramine Hcl,On Label,OTC,4.0,1.0,1.0
+2184,vertigo,Diphenhydramine Hcl,On Label,OTC,4.0,5.0,4.0
+2185,vertigo,Diphenhydramine Hcl,On Label,OTC,3.0,5.0,4.0
+2190,vulvovaginal candidiasis,Tioconazole,On Label,OTC,2.71,3.51,2.23
+2191,vulvovaginal candidiasis,Miconazole Nitrate,On Label,OTC,2.91,3.32,2.43
+2192,vulvovaginal candidiasis,Fluconazole,On Label,RX,3.32,4.41,2.97
+2194,vulvovaginal candidiasis,Fluconazole,On Label,RX,3.88,4.42,3.47
+2196,vulvovaginal candidiasis,Miconazole Nitrate,On Label,OTC,2.86,3.05,2.53
+2197,vulvovaginal candidiasis,Tioconazole,On Label,OTC,1.84,3.28,1.54
+2198,vulvovaginal candidiasis,Tioconazole,On Label,OTC,1.79,3.87,1.54
+2199,vulvovaginal candidiasis,Terconazole,On Label,RX,2.96,3.57,2.72
+2200,vulvovaginal candidiasis,Miconazole Nitrate,On Label,OTC,2.24,4.03,2.13
+2201,vulvovaginal candidiasis,Miconazole Nitrate,On Label,RX/OTC,2.16,3.16,2.0
+2202,vulvovaginal candidiasis,Terconazole,On Label,RX,2.0,3.06,1.88
+2203,vulvovaginal candidiasis,Miconazole Nitrate,On Label,RX/OTC,3.38,3.77,2.69
+2204,vulvovaginal candidiasis,Terconazole,On Label,RX,3.9,4.8,3.6
+2205,vulvovaginal candidiasis,Miconazole Nitrate,On Label,OTC,3.29,3.71,2.43
+2206,vulvovaginal candidiasis,Terconazole,On Label,RX,3.33,2.67,2.67
+2207,vulvovaginal candidiasis,Tioconazole,On Label,OTC,1.75,4.75,2.0
+2208,vulvovaginal candidiasis,Miconazole Nitrate,On Label,OTC,2.0,2.25,1.5
+2209,vulvovaginal candidiasis,Miconazole-Skin Clnsr17,On Label,OTC,3.0,4.75,3.0
+2210,vulvovaginal candidiasis,Miconazole Nitrate,On Label,OTC,2.33,3.67,2.33
+2211,vulvovaginal candidiasis,Miconazole Nitrate,On Label,OTC,3.33,5.0,2.0
+2212,vulvovaginal candidiasis,Clotrimazole,On Label,OTC,4.5,5.0,4.5
+2213,vulvovaginal candidiasis,Clotrimazole,On Label,OTC,4.5,4.5,4.5
+2214,vulvovaginal candidiasis,Clotrimazole,On Label,OTC,5.0,5.0,5.0
+2215,vulvovaginal candidiasis,Butoconazole Nitrate,On Label,RX,5.0,5.0,5.0
+2216,vulvovaginal candidiasis,Clotrimazole,On Label,OTC,5.0,4.0,5.0
+2217,vulvovaginal candidiasis,Butoconazole Nitrate,On Label,OTC,5.0,5.0,5.0
+2218,vulvovaginal candidiasis,Miconazole-Skin Clnsr17,On Label,OTC,1.0,4.0,1.0
